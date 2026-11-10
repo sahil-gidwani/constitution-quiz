@@ -1,0 +1,100 @@
+/* ===================================================================
+   Constitution Quiz theme: "the chamber".
+   Oxblood-black room, parchment-gold rules, ballot-paper options, serif
+   headlines, and the red / gold / green plaid of woven cloth.
+   Layered over the shared component CSS so layout and behaviour match the Agri game.
+   =================================================================== */
+:root {
+  --gold: #d9a82b; --gold-2: #f0cd6e;
+  --paper: #f6efe0; --paper-ink: #1d1209;
+  --rule: rgba(217,168,43,0.38);
+}
+body { background: var(--ink); }
+.h1, .hero__title, .modal h2, .brand__text, .final__title { letter-spacing: 0; }
+
+/* background: warm glows + Adinkrahene rings instead of drifting diagonal weave */
+.bg__aurora { filter: blur(110px); }
+.bg__aurora--a { opacity: 0.42; }
+.bg__aurora--b { opacity: 0.2; }
+.bg__aurora--c { background: radial-gradient(circle, rgba(15,157,88,0.7) 0%, transparent 65%); opacity: 0.12; }
+.bg__weave {
+  opacity: 0.6;
+  background:
+    radial-gradient(circle at 50% 50%, transparent 0 9px, rgba(217,168,43,0.07) 9px 10px, transparent 10px 19px, rgba(217,168,43,0.07) 19px 20px, transparent 20px 29px, rgba(217,168,43,0.07) 29px 30px, transparent 30px) 0 0 / 76px 76px;
+}
+
+/* square-shouldered surfaces with a double gold rule */
+.glass { border-radius: var(--r); background: linear-gradient(180deg, rgba(246,239,224,0.07), rgba(246,239,224,0.03)); border: 1px solid var(--rule); box-shadow: inset 0 0 0 4px rgba(18,7,8,0.55), inset 0 0 0 5px rgba(217,168,43,0.16), 0 18px 40px -22px rgba(0,0,0,0.8); }
+.btn, .btn--md, .btn--lg { border-radius: 10px; }
+.btn--sm { border-radius: 8px; }
+.icon-btn { border-radius: 10px; }
+.btn--primary { background: linear-gradient(180deg, #f0cd6e, #d9a82b 58%, #b88a14); color: #1e1300; border-color: #8a6410; }
+.btn--secondary { border-color: var(--rule); }
+.tag, .score-pill, .chip { border-radius: 8px; }
+.tag--gold, .score-pill { border-color: var(--rule); }
+
+/* header: black bar, gold hairline, woven strip underneath */
+.header { background: linear-gradient(180deg, rgba(18,7,8,0.96), rgba(18,7,8,0.82)); border-bottom: 1px solid var(--rule); }
+.header::after { height: 4px; opacity: 1; background:
+  repeating-linear-gradient(90deg, #ce1126 0 16px, #120708 16px 19px, var(--gold) 19px 41px, #120708 41px 44px, #0f9d58 44px 60px, #120708 60px 63px); }
+.brand__mark { width: 38px; height: 38px; background: none; box-shadow: none; border-radius: 50%; color: inherit; }
+.brand__mark .seal { filter: drop-shadow(0 0 10px rgba(217,168,43,0.35)); }
+.brand__text { font-weight: 700; font-size: 20px; }
+
+/* woven strip: plaid of red / gold / green with a cross thread */
+.kente {
+  height: 12px; border-radius: 2px;
+  background:
+    repeating-linear-gradient(0deg, rgba(18,7,8,0.55) 0 2px, transparent 2px 6px),
+    repeating-linear-gradient(90deg, #ce1126 0 20px, #120708 20px 23px, var(--gold) 23px 50px, #120708 50px 53px, #0f9d58 53px 76px, #120708 76px 79px);
+}
+
+/* hero */
+.hero__kicker { color: var(--gold-2); font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; font-size: 14px; align-items: center; }
+.hero__kicker::before { display: none; }
+.hero__kicker .seal--spin { animation: seal-turn 40s linear infinite; flex: none; }
+@keyframes seal-turn { to { transform: rotate(360deg); } }
+.hero__title { font-weight: 800; line-height: 0.98; font-size: clamp(42px, 6.6vw, 88px); }
+.shine { background-image: linear-gradient(100deg, #a97a12 0%, #d9a82b 28%, #f4d77a 44%, #d9a82b 60%, #a97a12 100%); }
+.hero__demo { transform-origin: 50% 60%; }
+
+/* the teaser is a ballot paper */
+.teaser { background: var(--paper); color: var(--paper-ink); border: 0; border-radius: 6px; box-shadow: 0 0 0 3px #120708, 0 0 0 4px var(--gold), 0 30px 60px -20px rgba(0,0,0,0.8); position: relative; }
+.teaser::before { content: ''; position: absolute; inset: 8px; border: 1px solid rgba(29,18,9,0.28); border-radius: 3px; pointer-events: none; }
+.teaser .tag { background: rgba(29,18,9,0.07); border-color: rgba(29,18,9,0.25); color: var(--paper-ink); }
+.teaser .tag--gold { background: #1d1209; color: var(--gold-2); border-color: #1d1209; }
+.teaser__opt { background: rgba(29,18,9,0.05); border: 1px solid rgba(29,18,9,0.28); border-radius: 6px; color: var(--paper-ink); }
+.teaser__opt b { background: transparent; border: 1.5px solid var(--paper-ink); border-radius: 50%; color: var(--paper-ink); }
+.teaser__opt.is-right { background: #e1f1e3; border-color: #0b6b3a; box-shadow: none; }
+.teaser__opt.is-right b { background: #0b6b3a; border-color: #0b6b3a; color: #fff; }
+.teaser__bar { background: rgba(29,18,9,0.12); }
+.teaser__bar i { background: linear-gradient(90deg, #ce1126, #d9a82b, #0f9d58); }
+
+/* point tiles: red / black / gold ballot-box ladder */
+.tile { border-radius: 8px; }
+.tile--p1 { background: linear-gradient(160deg, #3a1317, #230a0d); }
+.tile--p2 { background: linear-gradient(160deg, #5b1a20, #35100f); }
+.tile--p3 { background: linear-gradient(160deg, #7c1824, #4a0d15); }
+.tile--p4 { background: linear-gradient(160deg, #9a6d0c, #5e3f06); }
+.tile--p5 { background: linear-gradient(160deg, #b8860f, #6f4c08); }
+.tile__pts { color: #fff6dc; }
+.tile--p5 .tile__pts, .tile--p4 .tile__pts { text-shadow: 0 1px 0 rgba(0,0,0,0.5), 0 2px 8px rgba(0,0,0,0.5); }
+
+/* options: ballot-style circle marks */
+.opt { border-radius: 8px; background: rgba(246,239,224,0.07); border: 1px solid rgba(246,239,224,0.2); }
+.opt b { border-radius: 50%; background: transparent; border: 2px solid rgba(246,239,224,0.7); }
+.opt:hover:not(:disabled) { background: rgba(217,168,43,0.14); border-color: var(--gold); }
+.opt:hover:not(:disabled) b { background: var(--gold); color: #1e1300; border-color: var(--gold); }
+.opt.is-right b, .opt.is-wrong b { border-color: transparent; }
+
+/* question card: parchment rule on top */
+.qcard { border-radius: var(--r); }
+.qcard__text { font-family: var(--display); }
+.field { border-radius: 10px; }
+.modal { border-radius: 12px; background: rgba(28,11,13,0.97); }
+.toast { border-radius: 10px; }
+.podium__block { border-radius: 8px 8px 0 0; }
+.avatar { font-family: var(--display); }
+
+@media (prefers-reduced-motion: reduce) { .hero__kicker .seal--spin { animation: none; } }
+@media (forced-colors: active) { .teaser { border: 1px solid CanvasText; } }

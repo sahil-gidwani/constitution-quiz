@@ -1,0 +1,4145 @@
+{
+ "title": "Constitution Quiz Showdown",
+ "source": "Questions from the original Constitution quiz project (Rounds/*.json, Doc_Questions/*.docx and the amendment test set)",
+ "rounds": [
+  {
+   "id": "r1",
+   "title": "Constitution & Heritage",
+   "tagline": "The supreme law, landmarks, festivals and First Ladies",
+   "icon": "ScrollText",
+   "categories": [
+    {
+     "id": "r1-c1",
+     "name": "CONSTITUTION",
+     "short": "The Constitution",
+     "questions": [
+      {
+       "id": "r1-c1-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The Constitution shall be the _________ law of Ghana.",
+       "options": [
+        "military",
+        "supreme",
+        "political",
+        "only"
+       ],
+       "answer": "supreme",
+       "image": null
+      },
+      {
+       "id": "r1-c1-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "The President of Ghana may:",
+       "options": [
+        "create a new region.",
+        "alter the boundaries of a region.",
+        "provide for the merger of two or more regions.",
+        "all of the above"
+       ],
+       "answer": "all of the above",
+       "image": null
+      },
+      {
+       "id": "r1-c1-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "The Sovereignty of Ghana resides in",
+       "options": [
+        "The people of Ghana",
+        "The President of Ghana",
+        "The Parliament of Ghana",
+        "The Council of State"
+       ],
+       "answer": "The people of Ghana",
+       "image": null
+      },
+      {
+       "id": "r1-c1-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "Only __________ may establish a One-Party state",
+       "options": [
+        "Parliament",
+        "Supreme Court",
+        "President",
+        "No one"
+       ],
+       "answer": "No one",
+       "image": null
+      },
+      {
+       "id": "r1-c1-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "A referendum for the merger of two or more regions passes if",
+       "options": [
+        "At least 60% of the persons in each such region voted in favour.",
+        "At least 67% of the persons in each such region voted in favour.",
+        "At least 51% of the persons in each region voted in favour.",
+        "At least 75% of the persons in each region voted in favour."
+       ],
+       "answer": "At least 60% of the persons in each such region voted in favour.",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r1-c2",
+     "name": "MONUMENTS, LANDMARKS, SYMBOLS",
+     "short": "Monuments & Landmarks",
+     "questions": [
+      {
+       "id": "r1-c2-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "This picture shows:",
+       "options": [
+        "The Bird of Destiny symbol at the Jubilee House",
+        "The State Maze",
+        "The Spirit of Ghana symbol at the Supreme Court",
+        "The symbol of change when Ghana attained independence in 1957."
+       ],
+       "answer": "The State Maze",
+       "image": "r1-c2-q1.webp"
+      },
+      {
+       "id": "r1-c2-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "This picture shows:",
+       "options": [
+        "The entrance to Burma Camp Accra",
+        "The Black Star Square",
+        "Independence Arch on Black Star Square",
+        "Location of first speech by Dr. Kwame Nkrumah"
+       ],
+       "answer": "Independence Arch on Black Star Square",
+       "image": "r1-c2-q2.webp"
+      },
+      {
+       "id": "r1-c2-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "What is this monument?",
+       "options": [
+        "Kwame Nkrumah Mausoleum",
+        "The Mausoleum of the “Big Six”",
+        "Sargeant Adjetey Mausoleum",
+        "Ghana's Friendship Tower to the World"
+       ],
+       "answer": "Kwame Nkrumah Mausoleum",
+       "image": "r1-c2-q3.webp"
+      },
+      {
+       "id": "r1-c2-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "What is this monument?",
+       "options": [
+        "Statue of Sgt. Adjetey, the Hero of 1948.",
+        "Statue of Ghana Soldiers who fought in WWII.",
+        "Statue of the Unkown Soldier",
+        "Statue of the Defenders of the Constitution."
+       ],
+       "answer": "Statue of the Unkown Soldier",
+       "image": "r1-c2-q4.webp"
+      },
+      {
+       "id": "r1-c2-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "What lies on the stool in the picture?",
+       "options": [
+        "The Sword of Valor",
+        "The “Call to Duty” Sword",
+        "The State Sword",
+        "The Democracy Sword"
+       ],
+       "answer": "The State Sword",
+       "image": "r1-c2-q5.webp"
+      }
+     ]
+    },
+    {
+     "id": "r1-c3",
+     "name": "FESTIVALS",
+     "short": "Festivals",
+     "questions": [
+      {
+       "id": "r1-c3-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "This festival is held at Odumase in February",
+       "options": [
+        "Akwambo",
+        "Gmayem",
+        "Dipo",
+        "Akwasidae"
+       ],
+       "answer": "Dipo",
+       "image": null
+      },
+      {
+       "id": "r1-c3-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "This festival is held at Talensi in March",
+       "options": [
+        "Gologo",
+        "Gmayem",
+        "Damba",
+        "Kobine"
+       ],
+       "answer": "Gologo",
+       "image": null
+      },
+      {
+       "id": "r1-c3-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "This festival is held at Manhyia Every six weeks",
+       "options": [
+        "Odwira",
+        "Mmoaninko",
+        "Akwasidae",
+        "Homowo"
+       ],
+       "answer": "Akwasidae",
+       "image": null
+      },
+      {
+       "id": "r1-c3-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "This festival is held at Anloga on the 1st Saturday in November",
+       "options": [
+        "Hogbetsotso",
+        "Fiok",
+        "Kloyosikplem",
+        "Fao"
+       ],
+       "answer": "Hogbetsotso",
+       "image": null
+      },
+      {
+       "id": "r1-c3-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "This festival is held at Cape Coast on 1st Saturday in September",
+       "options": [
+        "Bakatue",
+        "Kundum",
+        "Apoo",
+        "Fetu Afahye"
+       ],
+       "answer": "Fetu Afahye",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r1-c4",
+     "name": "STATUTORY HOLIDAYS",
+     "short": "Statutory Holidays",
+     "questions": [
+      {
+       "id": "r1-c4-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "This holiday is celebrated on the 6th of March each year",
+       "options": [
+        "Independence Day",
+        "Good Friday",
+        "Eid-al Adha Festival (Hajj)",
+        "Eid-al Fitr (Ramadan)"
+       ],
+       "answer": "Independence Day",
+       "image": null
+      },
+      {
+       "id": "r1-c4-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "This holiday is celebrated on 1st of May each year",
+       "options": [
+        "Africa Day",
+        "Worker's Day",
+        "Farmers’ Day",
+        "Youth Day"
+       ],
+       "answer": "Worker's Day",
+       "image": null
+      },
+      {
+       "id": "r1-c4-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "This holiday is celebrated on 25th May each year",
+       "options": [
+        "Africa Day",
+        "United Nations Day",
+        "Good Friday",
+        "World Soccer Cup Day"
+       ],
+       "answer": "Africa Day",
+       "image": null
+      },
+      {
+       "id": "r1-c4-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "This holiday is celebrated on 1st July each year",
+       "options": [
+        "Republic Day",
+        "Farmers Day",
+        "Africa Unity Day",
+        "Boxing Day"
+       ],
+       "answer": "Republic Day",
+       "image": null
+      },
+      {
+       "id": "r1-c4-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "This holiday is celebrated on 1st Friday in December each year",
+       "options": [
+        "Africa Day",
+        "Worker's Day",
+        "Farmers’ Day",
+        "Youth Day"
+       ],
+       "answer": "Farmers’ Day",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r1-c5",
+     "name": "PRESIDENTIAL WIVES",
+     "short": "Presidential Wives",
+     "questions": [
+      {
+       "id": "r1-c5-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "She schooled at the Catholic Convent, Ola at Keta and received the Papal Award, Dame of St. Gregory the Great for her commitment to the plight of poor children and their mothers.",
+       "options": [
+        "Ernestina Naadu Mills",
+        "Theresa Kufour",
+        "Rebecca Akufo-Addo",
+        "Nana Konadu Agyeman Rawlings",
+        "Lordina Mahama"
+       ],
+       "answer": "Theresa Kufour",
+       "image": null
+      },
+      {
+       "id": "r1-c5-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "She spearheaded the “Zero Malaria Campaign” and was honored by the African Leaders of Nutrition for her work on improving the welfare of mothers and babies.",
+       "options": [
+        "Ernestina Naadu Mills",
+        "Theresa Kufour",
+        "Rebecca Akufo-Addo",
+        "Nana Konadu Agyeman Rawlings",
+        "Lordina Mahama"
+       ],
+       "answer": "Rebecca Akufo-Addo",
+       "image": null
+      },
+      {
+       "id": "r1-c5-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "She actively worked towards Ghana’s approval of United Nations Convention on the Right of Child, and the “Intestate Succession Law,” which protected survivors of anyone dying without a will.",
+       "options": [
+        "Ernestina Naadu Mills",
+        "Theresa Kufour",
+        "Rebecca Akufo-Addo",
+        "Nana Konadu Agyeman Rawlings",
+        "Lordina Mahama"
+       ],
+       "answer": "Nana Konadu Agyeman Rawlings",
+       "image": null
+      },
+      {
+       "id": "r1-c5-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "She focused on underprivilege and girl child education. She launched the Senior High School (SHS) students’ Bible project that distributed over 500,000 Bibles to Student Bible Unions.",
+       "options": [
+        "Ernestina Naadu Mills",
+        "Theresa Kufour",
+        "Rebecca Akufo-Addo",
+        "Nana Konadu Agyeman Rawlings",
+        "Lordina Mahama"
+       ],
+       "answer": "Ernestina Naadu Mills",
+       "image": null
+      },
+      {
+       "id": "r1-c5-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "She was President of the Organization of African First Ladies Against HIV and AIDS (OAFLA), and a strong advocate of HIV/AIDS awareness, Breast Cancer awareness, and orphans.",
+       "options": [
+        "Ernestina Naadu Mills",
+        "Theresa Kufour",
+        "Rebecca Akufo-Addo",
+        "Nana Konadu Agyeman Rawlings",
+        "Lordina Mahama"
+       ],
+       "answer": "Lordina Mahama",
+       "image": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "title": "Flags, Anthem & Oaths",
+   "tagline": "National symbols, rivers and sporting history",
+   "icon": "Flag",
+   "categories": [
+    {
+     "id": "r2-c1",
+     "name": "FLAGS OF GHANA",
+     "short": "Flags of Ghana",
+     "questions": [
+      {
+       "id": "r2-c1-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "This Flag was first flown in Ghana in",
+       "options": [
+        "1875",
+        "1966",
+        "1957",
+        "1952"
+       ],
+       "answer": "1957",
+       "image": "r2-c1-q1.webp"
+      },
+      {
+       "id": "r2-c1-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "This flag was flown in Ghana during:",
+       "options": [
+        "Arrival of Europeans to 1875",
+        "1875 – March 6 1957",
+        "1875 – February 1948",
+        "January 1, 1964 – February 28, 1966"
+       ],
+       "answer": "1875 – March 6 1957",
+       "image": "r2-c1-q2.webp"
+      },
+      {
+       "id": "r2-c1-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "This Flag was flown WHEN?",
+       "options": [
+        "Arrival of Europeans to 1875",
+        "1875 – March 6 1957",
+        "1875 – February 1948",
+        "January 1, 1964 – February 28, 1966"
+       ],
+       "answer": "Arrival of Europeans to 1875",
+       "image": "r2-c1-q3.webp"
+      },
+      {
+       "id": "r2-c1-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "This Flag was flown in Ghana when?",
+       "options": [
+        "Arrival of Europeans to 1875",
+        "1875 – March 6 1957",
+        "1875 – February 1948",
+        "January 1, 1964 – February 28, 1966"
+       ],
+       "answer": "January 1, 1964 – February 28, 1966",
+       "image": "r2-c1-q4.webp"
+      },
+      {
+       "id": "r2-c1-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "This Flag represented",
+       "options": [
+        "Ghana’s strong bond with Britain after Independence.",
+        "The Unigovernment proposal",
+        "The Flag of the Peaceful Partnership between the United Party and the Convention Peoples Party",
+        "Flag of the Convention Peoples Party"
+       ],
+       "answer": "Flag of the Convention Peoples Party",
+       "image": "r2-c1-q5.webp"
+      }
+     ]
+    },
+    {
+     "id": "r2-c2",
+     "name": "The National Anthem",
+     "short": "National Anthem",
+     "questions": [
+      {
+       "id": "r2-c2-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "How many times is “God” mentioned in the National Anthem of Ghana?",
+       "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+       ],
+       "answer": "1",
+       "image": null
+      },
+      {
+       "id": "r2-c2-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "What is the total number of words in Ghana’s National Anthem",
+       "options": [
+        "625",
+        "152",
+        "107",
+        "551"
+       ],
+       "answer": "152",
+       "image": null
+      },
+      {
+       "id": "r2-c2-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "The composition of the Ghana National Anthem was by:",
+       "options": [
+        "Prof. Awo Mana Asiedu, Dean School of Music Legon",
+        "Ephraim Amu",
+        "Philip Gbeho",
+        "Michael Kwame Gbordzoe"
+       ],
+       "answer": "Philip Gbeho",
+       "image": null
+      },
+      {
+       "id": "r2-c2-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "The Ghana National Anthem was first played",
+       "options": [
+        "February 24, 1996 when Nkrumah was overthrown",
+        "March 6, 1948 after the 1948 rioting at Accra",
+        "March 6, 1957 during Independence celebration",
+        "1945 to celebrate end of World War II"
+       ],
+       "answer": "March 6, 1957 during Independence celebration",
+       "image": null
+      },
+      {
+       "id": "r2-c2-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "How many languages did the National Commission for Civic Education translate the Ghana National Anthem?",
+       "options": [
+        "2 (Twi and Ewe)",
+        "12",
+        "7 (Dangme, Ewe, Ga, Gonja, Kasem, Fante, and Nzema).",
+        "8 (Dangme, Ewe, Ga, Gonja, Kasem, Fante, Nzema, Twi)."
+       ],
+       "answer": "12",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r2-c3",
+     "name": "Rivers and Lakes",
+     "short": "Rivers & Lakes",
+     "questions": [
+      {
+       "id": "r2-c3-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "This river is also known as the Pendjari River and rises in Burkina Faso. It forms part of the international boundaries between Benin and Burkina Faso and between Togo and Ghana. It empties into Lake Volta.",
+       "options": [
+        "Oti river",
+        "Tano river",
+        "Pra river",
+        "Ofin river"
+       ],
+       "answer": "Oti river",
+       "image": null
+      },
+      {
+       "id": "r2-c3-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "This river rises in the Kwahu Plateau near Mpraeso and enters the Gulf of Guinea near Takoradi. Very historic river, served as the border between the Ashanti Confederacy and the Gold Coast in the 19th Century.",
+       "options": [
+        "Oti river",
+        "Tano river",
+        "Pra river",
+        "Ofin river"
+       ],
+       "answer": "Pra river",
+       "image": null
+      },
+      {
+       "id": "r2-c3-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "This river is also known as the Nakambe River, and originates in Burkina Faso, and it flows into Lake Volta in Ghana.",
+       "options": [
+        "Oti river",
+        "Tano river",
+        "White Volta",
+        "Ofin river"
+       ],
+       "answer": "White Volta",
+       "image": null
+      },
+      {
+       "id": "r2-c3-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "The Weija Dam is situated on this river",
+       "options": [
+        "Oti river",
+        "Tano river",
+        "Densu river",
+        "Ofin river"
+       ],
+       "answer": "Densu river",
+       "image": null
+      },
+      {
+       "id": "r2-c3-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "This river is also known as the Nazinon and originates near Ouagadougou and flows about 320 km to join the White Volta.",
+       "options": [
+        "Black Volta",
+        "Red Volta",
+        "Densu river",
+        "Oti river"
+       ],
+       "answer": "Red Volta",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r2-c4",
+     "name": "Oath of Allegiance and Official Seals",
+     "short": "Oaths & Seals",
+     "questions": [
+      {
+       "id": "r2-c4-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The custodian of the Public Seal",
+       "options": [
+        "Secretary to the President",
+        "Secretary of the Cabinet",
+        "Chief of Staff",
+        "Chief Justice"
+       ],
+       "answer": "Secretary of the Cabinet",
+       "image": null
+      },
+      {
+       "id": "r2-c4-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "The Custodian of the Presidential Seal",
+       "options": [
+        "Secretary to the Speaker of Parliament",
+        "Chief of Staff",
+        "Secretary to the President.",
+        "Chief of Defense Staff"
+       ],
+       "answer": "Secretary to the President.",
+       "image": null
+      },
+      {
+       "id": "r2-c4-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "This Oath is sworn before the Chief Justice and Parliament.",
+       "options": [
+        "Presidential Oath",
+        "Cabinet Oath",
+        "Vice-Presidential Oath",
+        "a and c"
+       ],
+       "answer": "a and c",
+       "image": null
+      },
+      {
+       "id": "r2-c4-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "This oath is sworn before the President, the Chief Justice or such other person as the President may designate.",
+       "options": [
+        "The Oath of Secrecy",
+        "The Official Oath",
+        "The Speaker’s Oath",
+        "The Oath of the Auditor-General"
+       ],
+       "answer": "The Oath of Secrecy",
+       "image": null
+      },
+      {
+       "id": "r2-c4-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "The Oath of Member of Council of State is sworn before",
+       "options": [
+        "Parliament",
+        "Chief Justice",
+        "President",
+        "President and Chief Justice"
+       ],
+       "answer": "President",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r2-c5",
+     "name": "Ghana Sports History",
+     "short": "Sports History",
+     "questions": [
+      {
+       "id": "r2-c5-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The first Sports Administrator of Ghana",
+       "options": [
+        "Mr. Herbert Mensah",
+        "Mr. Ohene Djan",
+        "Mr. Hercules Joseph Ranadurai",
+        "Justice Annie Ruth Jiagge"
+       ],
+       "answer": "Mr. Hercules Joseph Ranadurai",
+       "image": null
+      },
+      {
+       "id": "r2-c5-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "Ghana’s first participation in the Olympic Games was",
+       "options": [
+        "Helsinki Summer Olympics in 1952",
+        "London Summer Olympics in 1957",
+        "Berlin Summer Olympics in 1960",
+        "Perth Summer Olympics in 1945"
+       ],
+       "answer": "Helsinki Summer Olympics in 1952",
+       "image": null
+      },
+      {
+       "id": "r2-c5-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "Which of the list below is NOT a Recognized Sporting Associations / Federation in Ghana.",
+       "options": [
+        "Ghana Droughts Association",
+        "5/7 aside Soccer",
+        "Para-Sitting Volleyball",
+        "All are Recognized Sporting Associations / Federation in Ghana."
+       ],
+       "answer": "All are Recognized Sporting Associations / Federation in Ghana.",
+       "image": null
+      },
+      {
+       "id": "r2-c5-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "How many times has Ghana won the African Cup of Nations",
+       "options": [
+        "5",
+        "4",
+        "3",
+        "1"
+       ],
+       "answer": "4",
+       "image": null
+      },
+      {
+       "id": "r2-c5-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "He is the first to score a goal for Ghana in the African Cup of Nations",
+       "options": [
+        "Edward Acquah",
+        "Kwadwo Mfum",
+        "Osei Kofi (now Reverend)",
+        "Aggrey- Fynn"
+       ],
+       "answer": "Aggrey- Fynn",
+       "image": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "title": "Forests, Parliament & Arms",
+   "tagline": "Mountains, the House and the Coat of Arms",
+   "icon": "Landmark",
+   "categories": [
+    {
+     "id": "r3-c1",
+     "name": "FORESTS",
+     "short": "Forests",
+     "questions": [
+      {
+       "id": "r3-c1-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The number of government appointees on the 11-Memebr Board of the Forestry Commission.",
+       "options": [
+        "6",
+        "3",
+        "5",
+        "none"
+       ],
+       "answer": "3",
+       "image": null
+      },
+      {
+       "id": "r3-c1-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "The Forestry Commission is responsible for the Protection, management and regulation of",
+       "options": [
+        "Wildlife",
+        "Timber",
+        "Rivers",
+        "a and b"
+       ],
+       "answer": "a and b",
+       "image": null
+      },
+      {
+       "id": "r3-c1-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "According to the US Agency for International Development (USAID), Ghana is a Category 3 country under the CITES National Legislation Project. This means:",
+       "options": [
+        "Ghana is among the top three countries in enforcing CITES.",
+        "Ghana is among the three middle-income countries in Africa in enforcing CITES.",
+        "Ghana’s legislative framework does not yet meet the requirements for the implementation of CITES.",
+        "Ghana is among the three countries that has not met the financial obligations under CITES"
+       ],
+       "answer": "Ghana’s legislative framework does not yet meet the requirements for the implementation of CITES.",
+       "image": null
+      },
+      {
+       "id": "r3-c1-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "According to USAID, Between 2000 and 2016",
+       "options": [
+        "The most trafficked species in Ghana were reptiles",
+        "The most trafficked species in Ghana were birds",
+        "The most trafficked species in Ghana were Tilapia",
+        "The most trafficked species in Ghana were cattle from the Sahel."
+       ],
+       "answer": "The most trafficked species in Ghana were reptiles",
+       "image": null
+      },
+      {
+       "id": "r3-c1-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "Forests cover:",
+       "options": [
+        "Approximately 80 per cent of total land area of Ghana",
+        "Approximately 50 per cent of total land area of Ghana",
+        "Approximately 35 per cent of total land area of Ghana",
+        "Less than 10 per cent of total area of Ghana."
+       ],
+       "answer": "Approximately 35 per cent of total land area of Ghana",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r3-c2",
+     "name": "MOUNTAINS",
+     "short": "Mountains",
+     "questions": [
+      {
+       "id": "r3-c2-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The second highest mountain in Ghana",
+       "options": [
+        "Afadjato",
+        "Aburi Mountains",
+        "Mount Dzebobo",
+        "Atwea Mountains"
+       ],
+       "answer": "Mount Dzebobo",
+       "image": null
+      },
+      {
+       "id": "r3-c2-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "This mountain is located in the Agumatsa Range, near two villages in the Volta Region: Gbledi and Liati Wote.",
+       "options": [
+        "Afadjato",
+        "Mount Tibabéné",
+        "Mount Dzebobo",
+        "Edouka Mountains"
+       ],
+       "answer": "Afadjato",
+       "image": null
+      },
+      {
+       "id": "r3-c2-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "This mountain is part of the Atewa Range and home to the Afep Pigeon, the Bristle Bill, the Olive long-tailed cuckoo, the blue-crested flycatcher, and rare butterflies.",
+       "options": [
+        "Mount Kwamisa",
+        "Mount Atiwiredu",
+        "Mount Adaklu",
+        "Edouka Mountains"
+       ],
+       "answer": "Mount Atiwiredu",
+       "image": null
+      },
+      {
+       "id": "r3-c2-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "This mountain is the source of three major rivers (Birim, Ayensu, Densu)",
+       "options": [
+        "Atwea Mountains",
+        "Mount Atiwiredu",
+        "Mount Adaklu",
+        "Edouka Mountains"
+       ],
+       "answer": "Mount Atiwiredu",
+       "image": null
+      },
+      {
+       "id": "r3-c2-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "This mountain is a popular prayer venue",
+       "options": [
+        "Atwea Mountains",
+        "Mount Atiwiredu",
+        "Mount Adaklu",
+        "Edouka Mountains"
+       ],
+       "answer": "Atwea Mountains",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r3-c3",
+     "name": "PARLIAMENT",
+     "short": "Parliament",
+     "questions": [
+      {
+       "id": "r3-c3-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "What we know as the Parliament today has roots to:",
+       "options": [
+        "The Legislative Council of 1482 when Elmina Castle was built.",
+        "The Legislative Council of 1925 under the Guggisberg Constitution.",
+        "The Legislative Council of 1946 under the Burns Constitution",
+        "The Legislative Council of 1850."
+       ],
+       "answer": "The Legislative Council of 1850.",
+       "image": null
+      },
+      {
+       "id": "r3-c3-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "Women were first introduced to the National Assembly to fill specially created seats in",
+       "options": [
+        "1951",
+        "1925",
+        "1960",
+        "1957"
+       ],
+       "answer": "1960",
+       "image": null
+      },
+      {
+       "id": "r3-c3-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "Ghana became a sovereign Republic in",
+       "options": [
+        "1957",
+        "1960",
+        "1992",
+        "1981"
+       ],
+       "answer": "1960",
+       "image": null
+      },
+      {
+       "id": "r3-c3-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "The First National Assembly under the Republic was special because:",
+       "options": [
+        "The number of women was increased from 10 seats to 30 seats.",
+        "The last Assembly attended by the British Governor of Ghana",
+        "All 198 members of the Assembly belonged to one Political Party and were elected unopposed.",
+        "Each region elected Ten Parliamentarians, and the President appointed the rest of the members."
+       ],
+       "answer": "All 198 members of the Assembly belonged to one Political Party and were elected unopposed.",
+       "image": null
+      },
+      {
+       "id": "r3-c3-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "The second Parliamentary period lasted:",
+       "options": [
+        "3 years",
+        "22 months",
+        "8 years",
+        "None of the above"
+       ],
+       "answer": "22 months",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r3-c4",
+     "name": "Coat-of-Arms",
+     "short": "Coat of Arms",
+     "questions": [
+      {
+       "id": "r3-c4-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "He said,",
+       "options": [
+        "President J. J. Rawlings",
+        "President John Agyekum Kufuor",
+        "Mr. Peter Ala Adjetey",
+        "Dr. J. B. Danquah"
+       ],
+       "answer": "Mr. Peter Ala Adjetey",
+       "image": null
+      },
+      {
+       "id": "r3-c4-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "What Birds are holding the Shield on the Coat-of-Arms?",
+       "options": [
+        "The African Falcon",
+        "Broad-Crested Sparrow",
+        "Eagle",
+        "African Harrier-hawk"
+       ],
+       "answer": "Eagle",
+       "image": null
+      },
+      {
+       "id": "r3-c4-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "The Black Star represents",
+       "options": [
+        "African Revolution",
+        "The Hope of Africa",
+        "The Unity of Ghana",
+        "African Freedom"
+       ],
+       "answer": "African Freedom",
+       "image": null
+      },
+      {
+       "id": "r3-c4-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "Divides the Coat-of-Arms into quarters",
+       "options": [
+        "Cross of Our Green Natural Resources",
+        "Cross of African Unity",
+        "St. George’s Cross",
+        "The Cross of England"
+       ],
+       "answer": "St. George’s Cross",
+       "image": null
+      },
+      {
+       "id": "r3-c4-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "Designed the Coat-of-Arms",
+       "options": [
+        "Kofi Antubam",
+        "Nii Amon Kotei",
+        "George Padmore",
+        "Nii Tackie Jones"
+       ],
+       "answer": "Nii Amon Kotei",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r3-c5",
+     "name": "GHANA MUSIC AWARDS",
+     "short": "Music Awards",
+     "questions": [
+      {
+       "id": "r3-c5-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The Ghana Music Awards was first awarded in",
+       "options": [
+        "1957 at Independence Day",
+        "1960 when Ghana became a Republic",
+        "1992",
+        "1996 to celebrate peaceful democratic elections"
+       ],
+       "answer": "1992",
+       "image": null
+      },
+      {
+       "id": "r3-c5-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "The winner of Artist of the Year is selected based on:",
+       "options": [
+        "Highest audience appeal, radio play, online streaming, popularity, and released hit single/album during the year.",
+        "Released the best song for a political campaign during the year.",
+        "Must have a successful European and American tour.",
+        "Hit sing must be in a Ghanaian language only."
+       ],
+       "answer": "Highest audience appeal, radio play, online streaming, popularity, and released hit single/album during the year.",
+       "image": null
+      },
+      {
+       "id": "r3-c5-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "He was born Livinstone Etse Satekla and hails from Ashaiman. He is 2-time winner of Artist of the Year",
+       "options": [
+        "Samini",
+        "Shatta Wale",
+        "Stoneboy",
+        "Black Sheriff"
+       ],
+       "answer": "Stoneboy",
+       "image": null
+      },
+      {
+       "id": "r3-c5-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "The two female artistes to win the Artist of the Year award",
+       "options": [
+        "Mzbel and Diana Hamilton",
+        "Ebony Reigns and Wiyaala",
+        "Ebony Reigns and Diana Hamilton",
+        "Efia Odo and Afia Schwarzenegger."
+       ],
+       "answer": "Ebony Reigns and Diana Hamilton",
+       "image": null
+      },
+      {
+       "id": "r3-c5-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "Who won Artiste of the Year in 2019",
+       "options": [
+        "Sarkodie",
+        "Daddy Lumba",
+        "KiDi",
+        "None of the above"
+       ],
+       "answer": "None of the above",
+       "image": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "title": "Chiefs, Climate & Courts",
+   "tagline": "Chieftaincy, the Constitution and a changing climate",
+   "icon": "Crown",
+   "categories": [
+    {
+     "id": "r4-c1",
+     "name": "Waterfalls & Wetlands",
+     "short": "Waterfalls & Wetlands",
+     "questions": [
+      {
+       "id": "r4-c1-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "It is the only inland Ramsar site in Ghana and home to many butterflies, over 140 species of birds, monkeys and the more reclusive bushpig, bushbuck and antelope.",
+       "options": [
+        "Owabi Wildlife Sanctuary",
+        "Densu Delta Wetland",
+        "Songor Ramsar site",
+        "Muni-Pomadze Ramsar Site"
+       ],
+       "answer": "Owabi Wildlife Sanctuary",
+       "image": null
+      },
+      {
+       "id": "r4-c1-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "This is the largest of the over 90 lagoons that cover the 550 km stretch of the coastline of Ghana.",
+       "options": [
+        "Keta Lagoon",
+        "Densu Delta Wetland",
+        "Songor Ramsar site",
+        "Muni-Pomadze Ramsar Site"
+       ],
+       "answer": "Keta Lagoon",
+       "image": null
+      },
+      {
+       "id": "r4-c1-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "I am known locally as Agoomatsa, which means 'Allow Me to Flow'.",
+       "options": [
+        "Tagbo Falls",
+        "Aflabo Falls",
+        "Ote Falls",
+        "Wli Waterfalls"
+       ],
+       "answer": "Wli Waterfalls",
+       "image": null
+      },
+      {
+       "id": "r4-c1-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "This is a double waterfall falling side by side. Find its source from Ponmpon River which runs through the Huhunya forest reserve. The first President of Ghana visited this waterfall.",
+       "options": [
+        "Tagbo Falls",
+        "Boti Falls",
+        "Ote Falls",
+        "Wli Waterfalls"
+       ],
+       "answer": "Boti Falls",
+       "image": null
+      },
+      {
+       "id": "r4-c1-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "The National Land Policy of Ghana bars all the following activities except:",
+       "options": [
+        "Drain the water from a wetland",
+        "Build on a wetland",
+        "The use of wetlands for farming, grazing, fishing, timber production and salt-winning.",
+        "Mining in wetlands"
+       ],
+       "answer": "The use of wetlands for farming, grazing, fishing, timber production and salt-winning.",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r4-c2",
+     "name": "Sports History",
+     "short": "Sports History",
+     "questions": [
+      {
+       "id": "r4-c2-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "Ghana became the first African country to win a medal in Football",
+       "options": [
+        "At the 1992 summer Olympics in Barcelona.",
+        "At the 1960 Commonwealth Games",
+        "1936 Berlin Games",
+        "Ghana has never won a medal in international football."
+       ],
+       "answer": "At the 1992 summer Olympics in Barcelona.",
+       "image": null
+      },
+      {
+       "id": "r4-c2-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "The first football club formed in Ghana was:",
+       "options": [
+        "Excelsior in 1903",
+        "Accra Hearts of Oaks in 1911",
+        "Royals in 1896",
+        "Cape Coast Venomous Vipers in 1920"
+       ],
+       "answer": "Excelsior in 1903",
+       "image": null
+      },
+      {
+       "id": "r4-c2-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "Oldest surviving club in Ghana is:",
+       "options": [
+        "Kumasi Asante Kotoko",
+        "Accra Hearts of Oak",
+        "Sekondi Hasaacas",
+        "Cape Coast Dwarfs"
+       ],
+       "answer": "Accra Hearts of Oak",
+       "image": null
+      },
+      {
+       "id": "r4-c2-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "He is credited with the internationalization of Ghana Football, including organizing first national league, obtaining sponsorship for sports, and securing the services of a foreign coach to grow Ghana football.",
+       "options": [
+        "Joseph Ranadurai, a Pioneer football organizer",
+        "Richard Maabuo Akwei, Chairman Gold Coast Amateur Sports Council.",
+        "Mr. Briton, a Jamaican-born British Citizen and Head Teacher of Philip Quaque Government Boys School, Cape Coast.",
+        "Mr. Ohene Djan, General Secretary of Ghana Football Association."
+       ],
+       "answer": "Mr. Ohene Djan, General Secretary of Ghana Football Association.",
+       "image": null
+      },
+      {
+       "id": "r4-c2-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "The Winneba Declaration",
+       "options": [
+        "Banned the transfer of players without paying the parent club.",
+        "Banned ownership of football clubs by foreigners",
+        "Transformed Ghanaian football from an amateur status to a professional status.",
+        "Ordered the immediate formation of women and youth football teams."
+       ],
+       "answer": "Transformed Ghanaian football from an amateur status to a professional status.",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r4-c3",
+     "name": "Constitution II",
+     "short": "Constitution II",
+     "questions": [
+      {
+       "id": "r4-c3-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "A person is a citizen of Ghana if",
+       "options": [
+        "he/she was a citizen before the Constitution was adopted.",
+        "he/she lives in a country that borders Ghana.",
+        "he/she renounces his/her citizenship.",
+        "he/she can recite the Pledge of Allegiance."
+       ],
+       "answer": "he/she was a citizen before the Constitution was adopted.",
+       "image": null
+      },
+      {
+       "id": "r4-c3-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "A citizen of Ghana ______ the citizenship of any other country in addition to his citizenship of Ghana.",
+       "options": [
+        "must renounce",
+        "must pledge",
+        "may hold",
+        "may not hold"
+       ],
+       "answer": "may hold",
+       "image": null
+      },
+      {
+       "id": "r4-c3-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "All persons shall have the right to",
+       "options": [
+        "freedom of speech and expression.",
+        "freedom of thought, conscience and belief and freedom of movement.",
+        "freedom to practice any religion.",
+        "all the above"
+       ],
+       "answer": "all the above",
+       "image": null
+      },
+      {
+       "id": "r4-c3-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "Every citizen of Ghana of ____ years of age or above and of sound mind has the right to vote.",
+       "options": [
+        "18",
+        "16",
+        "21",
+        "19"
+       ],
+       "answer": "18",
+       "image": null
+      },
+      {
+       "id": "r4-c3-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "There shall be an Electoral Commission which shall have the following functions:",
+       "options": [
+        "compile the register of voters.",
+        "define the electoral boundaries.",
+        "conduct and supervise all public elections.",
+        "all the above"
+       ],
+       "answer": "all the above",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r4-c4",
+     "name": "Chiefs and Chieftaincy",
+     "short": "Chiefs & Chieftaincy",
+     "questions": [
+      {
+       "id": "r4-c4-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The Chieftaincy Act (Act 759) was signed into Law on:",
+       "options": [
+        "March 6, 1957",
+        "July 1 1960",
+        "June 16, 2008",
+        "January 1, 1996"
+       ],
+       "answer": "June 16, 2008",
+       "image": null
+      },
+      {
+       "id": "r4-c4-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "The National House of Chiefs consist of:",
+       "options": [
+        "Fifty Eminent Chiefs selected by the Ministry of Chieftaincy Affairs in consultation with the Council of State.",
+        "Ten Chiefs from each region selected by the registered voters in the region.",
+        "Five paramount chiefs from each region elected by the Regional House of each region.",
+        "Five paramount chiefs from each region elected in an election by voters in the region."
+       ],
+       "answer": "Five paramount chiefs from each region elected by the Regional House of each region.",
+       "image": null
+      },
+      {
+       "id": "r4-c4-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "The President of the National House of Chiefs is:",
+       "options": [
+        "Appointed by the President of Ghana with approval by the Council of State.",
+        "Appointed by Parliament and confirmed by the Supreme Court.",
+        "Appointed by the Minister for Chieftaincy Affairs and confirmed by the Regional House of Chiefs.",
+        "Elected by the other Members of the National House of Chiefs in an election supervised by the Electoral Commission."
+       ],
+       "answer": "Elected by the other Members of the National House of Chiefs in an election supervised by the Electoral Commission.",
+       "image": null
+      },
+      {
+       "id": "r4-c4-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "All the statements are true except: A person may not be a member of the National House of Chiefs if:",
+       "options": [
+        "Is of unsound mind.",
+        "Is married to more than one wife.",
+        "Has been disqualified to practice his profession by the legitimate regulatory agency.",
+        "Has been convicted for high treason, treason, fraud and dishonesty."
+       ],
+       "answer": "Is married to more than one wife.",
+       "image": null
+      },
+      {
+       "id": "r4-c4-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "A vacancy in respect of the President or Vice-President must be filled within:",
+       "options": [
+        "14 days",
+        "90 days",
+        "30 days",
+        "1 year"
+       ],
+       "answer": "30 days",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r4-c5",
+     "name": "Climate Change",
+     "short": "Climate Change",
+     "questions": [
+      {
+       "id": "r4-c5-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "Your Carbon Footprint is:",
+       "options": [
+        "The amount of carbon dioxide you breathe in.",
+        "The amount of carbon you breathe out.",
+        "The amount of carbon dioxide and other carbon compound emitted due to consumption of fossil fuels.",
+        "The amount of carbon dioxide you emit from using charcoal and gas resources."
+       ],
+       "answer": "The amount of carbon dioxide and other carbon compound emitted due to consumption of fossil fuels.",
+       "image": null
+      },
+      {
+       "id": "r4-c5-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "According to a recent World Bank Report, which statement is true about inaction on climate problem?",
+       "options": [
+        "More than one million additional households will fall into poverty by year 2050",
+        "Income could reduce by 40% by year 2050",
+        "Both a and b are true",
+        "Only b is true"
+       ],
+       "answer": "Both a and b are true",
+       "image": null
+      },
+      {
+       "id": "r4-c5-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "Ghana’s Country Climate and Development Report (2022) identifies the following as short to medium term priority areas:",
+       "options": [
+        "Bridging the income gap between the Northern and Southern sectors of Ghana’s economy.",
+        "Develop a long-term low emission development strategy",
+        "Integrate climate change considerations with concrete goals, into other policies and planning instruments",
+        "b and c"
+       ],
+       "answer": "b and c",
+       "image": null
+      },
+      {
+       "id": "r4-c5-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "In Ghana, more than 90 percent of total emissions come from two sectors:",
+       "options": [
+        "Agriculture, land-use change, and forestry (AFOLU) and energy, including transport.",
+        "Mining and galamsey.",
+        "Services and agriculture",
+        "Population and services"
+       ],
+       "answer": "Agriculture, land-use change, and forestry (AFOLU) and energy, including transport.",
+       "image": null
+      },
+      {
+       "id": "r4-c5-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "Ghana is responsible for:",
+       "options": [
+        "0.04 percent of global CO2 emissions today and its cumulative emissions since 1750 amount to 0.02 percent of the world’s total.",
+        "3 percent of global CO2 emissions today and its cumulative emissions since 1957 amount to 1.3 percent of the world’s total.",
+        "23.1 percent of global CO2 emissions today and its cumulative emissions since 1960 amount to 2 percent of the world’s total.",
+        "1 percent of global CO2 emissions today and its cumulative emissions since 1945 amount to 0.33 percent of the world’s total."
+       ],
+       "answer": "0.04 percent of global CO2 emissions today and its cumulative emissions since 1750 amount to 0.02 percent of the world’s total.",
+       "image": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "title": "Minds & Quotes",
+   "tagline": "Scientists, writers and words that shaped politics",
+   "icon": "BookOpen",
+   "categories": [
+    {
+     "id": "r5-c1",
+     "name": "Science and Technology",
+     "short": "Science & Technology",
+     "questions": [
+      {
+       "id": "r5-c1-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "This entity is mandated to initiate and formulate policies on the Environment, Science, Technology and Innovation, as well as coordinate, monitor and evaluate the implementation of plans, programmes, and performance of the sector for national development.",
+       "options": [
+        "Council for Scientific and Industrial Research (CSIR)",
+        "The Ghana Science Academy.",
+        "Ministry of Environment, Science, Technology and Innovation (MESTI).",
+        "The National Development Planning Commission (NDPC)."
+       ],
+       "answer": "Ministry of Environment, Science, Technology and Innovation (MESTI).",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r5-c2",
+     "name": "Ghanaian Writers",
+     "short": "Ghanaian Writers",
+     "questions": [
+      {
+       "id": "r5-c2-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "In the foreword to this book, Elspeth Huxley wrote, “Physician, heal thyself”",
+       "options": [
+        "Ama Ata Aidoo, “Dilemma of a Ghost” 1965",
+        "J. W. Abruquah, “The Catechist”, 1965",
+        "Joseph Godson Amamoo, “God’s Hand at Work,” 2013",
+        "Ayi Kwei Armah, “Two Thousand Seasons” 1973"
+       ],
+       "answer": "Ayi Kwei Armah, “Two Thousand Seasons” 1973",
+       "image": null
+      },
+      {
+       "id": "r5-c2-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "He wrote about his time in jail in The House by the Sea (1978). He became an Ambassador, and Chair of the Council of State.",
+       "options": [
+        "Kofi Awoonor-Williams",
+        "Brigadier Charles Beausoleil",
+        "Nii Ayikwei Parkes",
+        "Ali Naseehu"
+       ],
+       "answer": "Kofi Awoonor-Williams",
+       "image": null
+      },
+      {
+       "id": "r5-c2-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "There is a dearth of statistics on the book market in Ghana. All the following are true except:",
+       "options": [
+        "The book market grew at 1.1% in 2024.",
+        "Projected number of users in the book market will reach 20 million by 2029.",
+        "Revenue in the book market is projected to grow by less than 1 percent by 2029.",
+        "The introduction of electronic sources would boost book readership."
+       ],
+       "answer": "Projected number of users in the book market will reach 20 million by 2029.",
+       "image": null
+      },
+      {
+       "id": "r5-c2-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "She is Nettie in the famous film Color Purple, The film grossed over US$90 million.",
+       "options": [
+        "Nana Ama McBrown",
+        "Yvonne Nelson",
+        "Jackie Appiah",
+        "Akosua Busia"
+       ],
+       "answer": "Akosua Busia",
+       "image": null
+      },
+      {
+       "id": "r5-c2-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "He is the author of Crucible of the Ages: Essays in Honour of Wole Soyinka at 80, a book described as \"a timely volume with majestic, priceless and supreme intellectual importance.\"",
+       "options": [
+        "Ama Ata Aidoo",
+        "Kwame Anthony Appiah",
+        "Atukwei Okai",
+        "Ivor Agyeman-Duah"
+       ],
+       "answer": "Ivor Agyeman-Duah",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r5-c3",
+     "name": "Women in Science",
+     "short": "Women in Science",
+     "questions": [
+      {
+       "id": "r5-c3-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "She is the only female inductee to the Ghana Academy of Arts and Sciences (GAAS) in 2024.",
+       "options": [
+        "Prof. (Mrs.) Ibok Nsa Ekpenyong Oduro",
+        "Eureka Emefa Ahadjie Adomako",
+        "Haggar Hilda Ampadu",
+        "Elsie Akosua Biraa Effah Kaufmann"
+       ],
+       "answer": "Prof. (Mrs.) Ibok Nsa Ekpenyong Oduro",
+       "image": null
+      },
+      {
+       "id": "r5-c3-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "She is the first female President of the Ghana Academy of Arts and Sciences.",
+       "options": [
+        "Joy Henrietta Mensah-Bonsu",
+        "Letitia Obeng",
+        "Aba Andam",
+        "Josephine Akosua Adomako Ampofo"
+       ],
+       "answer": "Letitia Obeng",
+       "image": null
+      },
+      {
+       "id": "r5-c3-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "She is the first female Particle physicist.",
+       "options": [
+        "Aba Andam",
+        "Josephine Akosua Adomako Ampofo",
+        "Rose Emma Mamaa Entsua-Mensah",
+        "Yaa Ntiamoah Badu"
+       ],
+       "answer": "Aba Andam",
+       "image": null
+      },
+      {
+       "id": "r5-c3-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "She is the first Ghanaian female medical doctor on the Gold Coast and the first Ghanaian woman and fourth West African woman to earn a university degree.",
+       "options": [
+        "Dorothy Yeboah-Manu",
+        "Dorcas Osei Safo",
+        "Susan Barbara Gyankorama Ofori-Atta",
+        "Sarah Darkwa"
+       ],
+       "answer": "Susan Barbara Gyankorama Ofori-Atta",
+       "image": null
+      },
+      {
+       "id": "r5-c3-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "First female deputy director general and chief research scientist of the Council for Scientific and Industrial Research (CSIR) in Ghana. She is a fisheries scientist and freshwater aquatic ecologist.",
+       "options": [
+        "Rose Emma Mamaa Entsua-Mensah",
+        "Letitia Obeng",
+        "Aba Andam",
+        "Josephine Akosua Adomako Ampofo"
+       ],
+       "answer": "Rose Emma Mamaa Entsua-Mensah",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r5-c4",
+     "name": "Constitution III",
+     "short": "Constitution III",
+     "questions": [
+      {
+       "id": "r5-c4-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The top executive of the Republic of Ghana is",
+       "options": [
+        "the President.",
+        "the Speaker of Parliament.",
+        "the Chief Justice.",
+        "the Auditor-General."
+       ],
+       "answer": "the President.",
+       "image": null
+      },
+      {
+       "id": "r5-c4-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "The line of succession to the office of President is",
+       "options": [
+        "President, Vice-President, Speaker of Parliament, Chief Justice.",
+        "President, Speaker of Parliament, Council of State, Minister of State.",
+        "President, Chief Justice, Auditor-General, Lands Commissioner.",
+        "none of the above"
+       ],
+       "answer": "President, Vice-President, Speaker of Parliament, Chief Justice.",
+       "image": null
+      },
+      {
+       "id": "r5-c4-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "To be qualified for election as the President of Ghana, a person shall",
+       "options": [
+        "be a citizen of Ghana by birth.",
+        "be at least 40 years of age.",
+        "be a member of Parliament.",
+        "both a and b"
+       ],
+       "answer": "both a and b",
+       "image": null
+      },
+      {
+       "id": "r5-c4-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "A person elected as President shall hold office for a term of _____ years.",
+       "options": [
+        "two",
+        "four",
+        "six",
+        "indefinite"
+       ],
+       "answer": "four",
+       "image": null
+      },
+      {
+       "id": "r5-c4-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "A person shall not hold office as President of Ghana for more than ____ terms.",
+       "options": [
+        "one",
+        "two",
+        "three",
+        "indefinite"
+       ],
+       "answer": "two",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r5-c5",
+     "name": "Famous Political Quotes",
+     "short": "Political Quotes",
+     "questions": [
+      {
+       "id": "r5-c5-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "He said, “A nation's greatness is not measured by its economic strength, but by how it treats its most vulnerable citizens.”",
+       "options": [
+        "John Dramani Mahama",
+        "Kwame Nkrumah",
+        "Nana Addo Dankwah Akufo Addo",
+        "John Kufour"
+       ],
+       "answer": "John Dramani Mahama",
+       "image": null
+      },
+      {
+       "id": "r5-c5-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "He said, “Practice without thought is blind. Thought without practice is empty.”",
+       "options": [
+        "Kwame Nkrumah",
+        "Nana Addo Dankwah Akufo Addo",
+        "J. J. Rawlings",
+        "John Kufour"
+       ],
+       "answer": "Kwame Nkrumah",
+       "image": null
+      },
+      {
+       "id": "r5-c5-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "He said, “Politicians are not the only persons who make mistakes. Media practitioners, like all human beings, can also make mistakes, and, when they do, they should have the humility to acknowledge their error, and not have their misdeeds atoned under the guise of “media freedom” Irresponsible media practice is an abuse of freedom of expression, not its manifestation”",
+       "options": [
+        "John Evans Atta Mills",
+        "Nana Addo Dankwah Akufo Addo",
+        "J. J. Rawlings",
+        "John Kufour"
+       ],
+       "answer": "Nana Addo Dankwah Akufo Addo",
+       "image": null
+      },
+      {
+       "id": "r5-c5-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "H e said, “The test for religious belief is not in pious platitudes and cautious charity but in positive and creative action.",
+       "options": [
+        "John Evans Atta Mills",
+        "Nana Addo Dankwah Akufo Addo",
+        "J. J. Rawlings",
+        "John Kufour"
+       ],
+       "answer": "J. J. Rawlings",
+       "image": null
+      },
+      {
+       "id": "r5-c5-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "He said, “Ours is not a poor country and even though we are now a poor people, there should be no room for the despondency that has settled on large sections of the population.”",
+       "options": [
+        "John Evans Atta Mills",
+        "Nana Addo Dankwah Akufo Addo",
+        "J. J. Rawlings",
+        "John Kufour"
+       ],
+       "answer": "John Kufour",
+       "image": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "title": "Numbers & Leaders",
+   "tagline": "Statistics, sporting stars, wildlife and heads of state",
+   "icon": "Trophy",
+   "categories": [
+    {
+     "id": "r6-c1",
+     "name": "Talk to me Statistics",
+     "short": "Statistics",
+     "questions": [
+      {
+       "id": "r6-c1-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The Gross Domestic Product (GDP) of a country measures:",
+       "options": [
+        "The total money value of all goods (metal products, wood products, food, etc.) produced in a country each year.",
+        "The total value of all services (car rental, hotel services. Haircuts, etc) produced each year.",
+        "The total value of gold, cocoa, oil, timber and forest produced each year.",
+        "a and b"
+       ],
+       "answer": "a and b",
+       "image": null
+      },
+      {
+       "id": "r6-c1-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "According to the International Monetary Fund 2024 Report the following are false except:",
+       "options": [
+        "Above $75 billion dollars",
+        "Greater then $60 billion dollars but less than $70 billion dollars",
+        "Less than $60 billion dollars",
+        "No data to measure the GDP because it is too complex"
+       ],
+       "answer": "Above $75 billion dollars",
+       "image": null
+      },
+      {
+       "id": "r6-c1-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "Which list shows the contribution by sectors to GDP from largest to smallest.",
+       "options": [
+        "Agriculture, Industry, Services",
+        "Industry, Agriculture, Services",
+        "Industry, Services, Agriculture",
+        "Services, Industry, Agriculture"
+       ],
+       "answer": "Services, Industry, Agriculture",
+       "image": null
+      },
+      {
+       "id": "r6-c1-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "According to the International Monetary Fund Ghana’s gross debt is:",
+       "options": [
+        "Over 80% of GDP",
+        "Greater than 100% of GDP",
+        "50% of GDP",
+        "less than 50% of GDP"
+       ],
+       "answer": "Over 80% of GDP",
+       "image": null
+      },
+      {
+       "id": "r6-c1-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "According to the IMF Report, the growth rate of gdp in 2024 was:",
+       "options": [
+        "5%",
+        "7.3%",
+        "3.1%",
+        "1%"
+       ],
+       "answer": "3.1%",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r6-c2",
+     "name": "Sports Superstars",
+     "short": "Sports Superstars",
+     "questions": [
+      {
+       "id": "r6-c2-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "He has the most caps in Ghana soccer history",
+       "options": [
+        "Asamoah Gyan",
+        "Andre Ayew",
+        "Dede Ayew",
+        "Edward Acquah"
+       ],
+       "answer": "Andre Ayew",
+       "image": null
+      },
+      {
+       "id": "r6-c2-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "He is the top scorer in Ghana international soccer history",
+       "options": [
+        "Asamoah Gyan",
+        "Abedi Pele",
+        "Osei Kofi",
+        "Edward Acquah"
+       ],
+       "answer": "Asamoah Gyan",
+       "image": null
+      },
+      {
+       "id": "r6-c2-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "She holds the record of the fastest 100 m run in Ghana history",
+       "options": [
+        "Vida Nsiah",
+        "Vida Anim",
+        "Janet Amponsah",
+        "Nadia Eke"
+       ],
+       "answer": "Vida Anim",
+       "image": null
+      },
+      {
+       "id": "r6-c2-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "She was referred to as “Baby Jet” and the first female to represent Ghana at the Olympic Games.",
+       "options": [
+        "Sakat Lariba",
+        "Grace Bakari",
+        "Comfort Asamoah-Gyan",
+        "Alice Annum"
+       ],
+       "answer": "Alice Annum",
+       "image": null
+      },
+      {
+       "id": "r6-c2-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "She is Ghana’s first female World boxing champion",
+       "options": [
+        "Sanjeeta Birdie",
+        "Ornella Sathoud",
+        "Sarah Lotus Asare",
+        "Abigail Kwartekaa Quartey"
+       ],
+       "answer": "Abigail Kwartekaa Quartey",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r6-c3",
+     "name": "Wildlife",
+     "short": "Wildlife",
+     "questions": [
+      {
+       "id": "r6-c3-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "These numbers represent the numbers of which of the following resources 7, 6, 4, 5",
+       "options": [
+        "Ramsar sites, National Parks, Resource Reserves, Wildlife Sanctuaries",
+        "Wildlife sanctuaries, Ramsar sites, National parks, Resource reserves,",
+        "National parks, Resource Reserves, Wildlife sanctuaries, Ramsar sites",
+        "Resource Reserves, National Parks, Ramsar sites, Wildlife Sanctuaries."
+       ],
+       "answer": "National parks, Resource Reserves, Wildlife sanctuaries, Ramsar sites",
+       "image": null
+      },
+      {
+       "id": "r6-c3-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "You will find huge Savannah elephants, baboons, other primate species at:",
+       "options": [
+        "Mole National Park",
+        "Kakum National Park",
+        "Agumatsa Wildlife Sanctuary",
+        "Bomfobiri Wildlife Sanctuary"
+       ],
+       "answer": "Mole National Park",
+       "image": null
+      },
+      {
+       "id": "r6-c3-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "It may be the only village in Africa with a special cemetery for monkeys.",
+       "options": [
+        "Boabeng-Fiema",
+        "Kakum National Park",
+        "Agumatsa Wildlife Sanctuary",
+        "Bomfobiri Wildlife Sanctuary"
+       ],
+       "answer": "Boabeng-Fiema",
+       "image": null
+      },
+      {
+       "id": "r6-c3-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "The Wildlife Division manages approximately ___ as Protected Areas (PA)",
+       "options": [
+        "10.2 percent of Ghana’s total land area",
+        "3.5% percent of Ghana’s total land area",
+        "6.2 percent of Ghana’s total land area.",
+        "5 percent of Ghana’s total land area."
+       ],
+       "answer": "6.2 percent of Ghana’s total land area.",
+       "image": null
+      },
+      {
+       "id": "r6-c3-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "This site boasts over 600 species of butterflies and a haven for bird watchers.",
+       "options": [
+        "Kalakpa Resource Reserve",
+        "Ankasa Conservation Area",
+        "Agumatsa Wildlife Sanctuary",
+        "Bomfobiri Wildlife Sanctuary"
+       ],
+       "answer": "Ankasa Conservation Area",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r6-c4",
+     "name": "Council for Scientific and Industrial Research (CSIR)",
+     "short": "CSIR",
+     "questions": [
+      {
+       "id": "r6-c4-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The origin of the CSIR as we know it today is the:",
+       "options": [
+        "National Research Council 1958",
+        "Ghana Academy of Learning 1963",
+        "Ghana Academy of Sciences 1968",
+        "Motion of Destiny 1965"
+       ],
+       "answer": "National Research Council 1958",
+       "image": null
+      },
+      {
+       "id": "r6-c4-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "Which statement is not true about “CSIR-Plus”",
+       "options": [
+        "Established to address the Covid pandemic",
+        "Established to commercialize the research and technology products from CSIR.",
+        "It is a limited liability company owned by CSIR",
+        "The Board of CSIR-Plus is appointed by the CSIR Council."
+       ],
+       "answer": "Established to address the Covid pandemic",
+       "image": null
+      },
+      {
+       "id": "r6-c4-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "The law that established the CSIR mandated that the Council meets:",
+       "options": [
+        "At least once a month",
+        "At least once a year",
+        "At least once every 3 months",
+        "At least twice a year."
+       ],
+       "answer": "At least once every 3 months",
+       "image": null
+      },
+      {
+       "id": "r6-c4-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "Which of the following statements is not true",
+       "options": [
+        "The CSIR may borrow from a bank and maintain its own bank accounts",
+        "Ministerial control of CSIR falls under the Ministry of Environment, Science and Technology.",
+        "The tax on products sold by the CSIR may not exceed 10% of its revenues.",
+        "CSIR may receive donations and grants from International Donor community."
+       ],
+       "answer": "The tax on products sold by the CSIR may not exceed 10% of its revenues.",
+       "image": null
+      },
+      {
+       "id": "r6-c4-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "The CSIR Council",
+       "options": [
+        "Is appointed by the President in consultation with the Council of State",
+        "Appointed by Parliament with a simple majority vote",
+        "Appointed by the President subject to Parliamentary approval.",
+        "Appointed by Parliament in consultation with the Council of State"
+       ],
+       "answer": "Is appointed by the President in consultation with the Council of State",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r6-c5",
+     "name": "Ghana Heads of State",
+     "short": "Heads of State",
+     "questions": [
+      {
+       "id": "r6-c5-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The two Supreme Court Justices who served as interim Presidents",
+       "options": [
+        "Sir Edward Akufo-Addo and Justice Van Lare",
+        "Justice Nii Amaa Ollenu and Sir Arku Korsah",
+        "Justice Abban and Justice Van Lare",
+        "Sir Edward Akufo-Addo and Justice Nii Amaa Ollenu"
+       ],
+       "answer": "Justice Nii Amaa Ollenu and Sir Arku Korsah",
+       "image": null
+      },
+      {
+       "id": "r6-c5-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "He is the longest serving Head of State of Ghana",
+       "options": [
+        "John Agyekum Kufuor",
+        "J. J. Rawlings",
+        "A. A. Afrifa",
+        "Kwame Nkrumah"
+       ],
+       "answer": "J. J. Rawlings",
+       "image": null
+      },
+      {
+       "id": "r6-c5-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "What list shows the longest serving to shortest serving Head of State.",
+       "options": [
+        "J. J. Rawlings, Edward Akufo-Addo, Hilla Limann",
+        "I. K. Acheampong, Fred Akufo, Akwasi Afrifa",
+        "Kwame Nkrumah, J. A. Kufuor, John Atta Mills",
+        "J. J. Rawlings, J. A. Kufuor, Kwame Nkrumah"
+       ],
+       "answer": "J. J. Rawlings, J. A. Kufuor, Kwame Nkrumah",
+       "image": null
+      },
+      {
+       "id": "r6-c5-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "The number of Heads of State who were deposed",
+       "options": [
+        "3",
+        "5",
+        "4",
+        "1"
+       ],
+       "answer": "5",
+       "image": null
+      },
+      {
+       "id": "r6-c5-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "Religious affiliation of the majority of Heads of State",
+       "options": [
+        "Presbyterian",
+        "Methodist",
+        "Roman Catholic",
+        "Anglican"
+       ],
+       "answer": "Roman Catholic",
+       "image": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "title": "State, Forces & Campus",
+   "tagline": "The Council of State, insignia, weather and universities",
+   "icon": "ShieldCheck",
+   "categories": [
+    {
+     "id": "r7-c1",
+     "name": "The Council of State",
+     "short": "Council of State",
+     "questions": [
+      {
+       "id": "r7-c1-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The Council of State …",
+       "options": [
+        "shall be the principal legal advisor to the President.",
+        "counsels the President in the performance of his functions.",
+        "considers and takes appropriate measures to safeguard the internal and external security of Ghana.",
+        "advises the President on development planning policy and strategy."
+       ],
+       "answer": "counsels the President in the performance of his functions.",
+       "image": null
+      },
+      {
+       "id": "r7-c1-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "The Chairman of the Council of State shall be",
+       "options": [
+        "appointed by the President.",
+        "appointed by the Chief Justice.",
+        "elected from among its members.",
+        "none of the above"
+       ],
+       "answer": "elected from among its members.",
+       "image": null
+      },
+      {
+       "id": "r7-c1-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "The Council of State shall meet at least _____times in a year.",
+       "options": [
+        "four",
+        "two",
+        "one",
+        "six"
+       ],
+       "answer": "four",
+       "image": null
+      },
+      {
+       "id": "r7-c1-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "A decision by the Council of State cannot be made unless more than ____ of all the members of the Council are present.",
+       "options": [
+        "1/3",
+        "2/3",
+        "1/4",
+        "½"
+       ],
+       "answer": "½",
+       "image": null
+      },
+      {
+       "id": "r7-c1-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "The Council of State as we know it today originated from:",
+       "options": [
+        "the recommendations of the Coussey Commission",
+        "The recommendations of the Sir Arden Clarke Commission",
+        "The recommendations of the Sir Listowel Commission",
+        "None of the above"
+       ],
+       "answer": "the recommendations of the Coussey Commission",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r7-c2",
+     "name": "Armed Forces Insignia",
+     "short": "Armed Forces Insignia",
+     "questions": [
+      {
+       "id": "r7-c2-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "I wear the insignia below; who am I?",
+       "options": [
+        "Captain in the Navy",
+        "Captain in the Army",
+        "Lieutenant in the Army",
+        "Lieutenant in the Navy"
+       ],
+       "answer": "Captain in the Army",
+       "image": "r7-c2-q1.webp"
+      },
+      {
+       "id": "r7-c2-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "I wear the insignia below; who am I?",
+       "options": [
+        "Flight Lieutenant",
+        "Wing Commander",
+        "Flying Officer",
+        "Squadron Leader"
+       ],
+       "answer": "Squadron Leader",
+       "image": "r7-c2-q2.webp"
+      },
+      {
+       "id": "r7-c2-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "I wear the insignia below; who am I?",
+       "options": [
+        "Leading Seaman",
+        "Petty Officer First Class – Navy",
+        "Able Seaman",
+        "Chief Petty Officer"
+       ],
+       "answer": "Petty Officer First Class – Navy",
+       "image": "r7-c2-q3.webp"
+      },
+      {
+       "id": "r7-c2-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "I wear the insignia below; who am I?",
+       "options": [
+        "Warrant Officer Class 2 – Army",
+        "Field Marshall – Army",
+        "Warrant Officer Class II – Air Force",
+        "Flight Sergeant"
+       ],
+       "answer": "Warrant Officer Class II – Air Force",
+       "image": "r7-c2-q4.webp"
+      },
+      {
+       "id": "r7-c2-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "I wear the insignia below; who am I?",
+       "options": [
+        "Field Marshall",
+        "General – Army",
+        "Major General",
+        "Brigadier"
+       ],
+       "answer": "General – Army",
+       "image": "r7-c2-q5.webp"
+      }
+     ]
+    },
+    {
+     "id": "r7-c3",
+     "name": "Climate/Weather in Ghana",
+     "short": "Climate & Weather",
+     "questions": [
+      {
+       "id": "r7-c3-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The highest temperature recorded in Ghana was",
+       "options": [
+        "Sunyani: 41 °C (105 °F) on February 24, 2023",
+        "Navrongo 45 °C (113 °F) on April 8, 2021.",
+        "Yendi 45.5 °C (113.9 °F) on March 23, 2019",
+        "Bolgatanga 43.6 °C (110.5 °F) on February 1925"
+       ],
+       "answer": "Navrongo 45 °C (113 °F) on April 8, 2021.",
+       "image": null
+      },
+      {
+       "id": "r7-c3-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "The Ghana Meteorological Agency (GMet) is under the jurisdiction of:",
+       "options": [
+        "The Ministry of Environment, Science and Technology (MEST)",
+        "The Ministry of Food and Agriculture (MOFA)",
+        "The Ministry of Lands and Natural Resources",
+        "Ministry of Communications and Digitalization"
+       ],
+       "answer": "Ministry of Communications and Digitalization",
+       "image": null
+      },
+      {
+       "id": "r7-c3-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "According to WorldData.Info, the lowest recorded temperature in Ghana between 1952 and 2024.",
+       "options": [
+        "Aburi 1.5 °C (34.7 F) on December 4, 1956",
+        "Accra 2.9 °C (37.22 F) on January 13, 2020.",
+        "Axim 5 °C (41 F) on January 24, 1996",
+        "Dixcove 9 °C (48.2 F) on January 11, 2021."
+       ],
+       "answer": "Accra 2.9 °C (37.22 F) on January 13, 2020.",
+       "image": null
+      },
+      {
+       "id": "r7-c3-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "What is considered the drought of record (most severe drought) occurred in:",
+       "options": [
+        "1910 - 1920",
+        "1939 - 1949",
+        "1982 - 1984",
+        "1946 – 1961"
+       ],
+       "answer": "1982 - 1984",
+       "image": null
+      },
+      {
+       "id": "r7-c3-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "Which of the following statements is true under the Meteorological Act (Act 682).",
+       "options": [
+        "The Board manages the fund of the Agency with oversight by CHRAJ.",
+        "The Director-General of the Agency is appointed by the Board in consultation with the Council of State.",
+        "The Agency may cut down and remove any tree, underwood or structures that may interfere with surveys, but must pay the landowner for the damage.",
+        "The Agency must give a landowner 30 days’ Notice before they can enter the land or premises."
+       ],
+       "answer": "The Agency may cut down and remove any tree, underwood or structures that may interfere with surveys, but must pay the landowner for the damage.",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r7-c4",
+     "name": "Universities and Institutions of Higher Education",
+     "short": "Universities",
+     "questions": [
+      {
+       "id": "r7-c4-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "Their Motto is “Knowledge for Service”",
+       "options": [
+        "University of Development Studies (Tamale)",
+        "Regional Maritime University (Accra)",
+        "University of Ghana (Accra)",
+        "University of Education (Winneba)"
+       ],
+       "answer": "University of Development Studies (Tamale)",
+       "image": null
+      },
+      {
+       "id": "r7-c4-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "It is the oldest University in Ghana",
+       "options": [
+        "University of Ghana, Legon",
+        "Kwame Nkrumah University of Science and Technology",
+        "Accra College of Education",
+        "Islamic University College"
+       ],
+       "answer": "University of Ghana, Legon",
+       "image": null
+      },
+      {
+       "id": "r7-c4-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "The Student organization of this university elected the first female student government President in Ghana.",
+       "options": [
+        "Ghana Institute of Management and Public Administration",
+        "University of Ghana, Legon",
+        "Ashesi University",
+        "University of Mines and Technology"
+       ],
+       "answer": "Ashesi University",
+       "image": null
+      },
+      {
+       "id": "r7-c4-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "Alumni from this university include. Hon. Kofi Annan, Hon. Aliu Mahama and Nana Konadu Agyeman-Rawlings.",
+       "options": [
+        "University of Ghana, Legon",
+        "Kwame Nkrumah University of Science and Technology",
+        "Accra College of Education",
+        "University of Cape Coast"
+       ],
+       "answer": "Kwame Nkrumah University of Science and Technology",
+       "image": null
+      },
+      {
+       "id": "r7-c4-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "This logo belongs to which university in Ghana?",
+       "options": [
+        "University of Cape Coast",
+        "Regional Maritime University",
+        "University of Ghana",
+        "University of Education"
+       ],
+       "answer": "University of Cape Coast",
+       "image": "r7-c4-q5.webp"
+      }
+     ]
+    },
+    {
+     "id": "r7-c5",
+     "name": "The Ghana Music Awards",
+     "short": "Ghana Music Awards",
+     "questions": [
+      {
+       "id": "r7-c5-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "Holds the record for the number of times as Host of the Ghana Music Awards",
+       "options": [
+        "Kwame Sefa Kayi",
+        "Giovani Caleb",
+        "Berla Mundi",
+        "Chris Attoh"
+       ],
+       "answer": "Berla Mundi",
+       "image": null
+      },
+      {
+       "id": "r7-c5-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "Let us see who will break the tie. These two Artists have both won the Artist of the Year Award twice.",
+       "options": [
+        "Shatta Wale and Kuami Eugene",
+        "Kontihene and Ebony Reigns",
+        "Sarkodie and Stoneboy",
+        "Black Sheriff and KiDi"
+       ],
+       "answer": "Sarkodie and Stoneboy",
+       "image": null
+      },
+      {
+       "id": "r7-c5-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "Never won the prestigious Artist of the Year Award but walked away with a big one, The Lifetime Achievement Award at the 25th TGMA festival.",
+       "options": [
+        "Daddy Lumba",
+        "Ofori Amponsah",
+        "Kontihene",
+        "Amakye Dede"
+       ],
+       "answer": "Amakye Dede",
+       "image": null
+      },
+      {
+       "id": "r7-c5-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "The TGMA Award is produced by the marketing giant",
+       "options": [
+        "Global Entertainment Group",
+        "Strategic Marketing Associates",
+        "Charter House",
+        "Bud and Cornwell Associates"
+       ],
+       "answer": "Charter House",
+       "image": null
+      },
+      {
+       "id": "r7-c5-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "Unfortunately, the GMA was not held in 2020 because",
+       "options": [
+        "Covid restrictions on events",
+        "Could not find a Sponsor",
+        "Internal organizational disagreements",
+        "a and b"
+       ],
+       "answer": "Covid restrictions on events",
+       "image": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "title": "Health, Honours & Screen",
+   "tagline": "Health, pageants, national awards, Americana and film",
+   "icon": "Award",
+   "categories": [
+    {
+     "id": "r8-c1",
+     "name": "Health and Nutrition",
+     "short": "Health & Nutrition",
+     "questions": [
+      {
+       "id": "r8-c1-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "Ghana’s expenditure on health care:",
+       "options": [
+        "Ghana spends 10 percent of its Gross Domestic Product on healthcare.",
+        "Ghana spends less than 5 percent of Gross Domestic Product on healthcare.",
+        "Ghana spends 20 percent of Gross Domestic Product on healthcare.",
+        "None of the above."
+       ],
+       "answer": "Ghana spends less than 5 percent of Gross Domestic Product on healthcare.",
+       "image": null
+      },
+      {
+       "id": "r8-c1-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "Which of the following is not true based on WHO 2021 data:",
+       "options": [
+        "Life expectancy at birth is higher for females than for males",
+        "More males die from HIV/AIDS than females",
+        "Over 75% of Ghana’s population is between the ages 15-65",
+        "Between 2008 and 2022, under-five mortality decreased by 50% from 80 to 40 deaths per 1,000 live births."
+       ],
+       "answer": "More males die from HIV/AIDS than females",
+       "image": null
+      },
+      {
+       "id": "r8-c1-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "Which list shows the Percentage of Female Population with no Education from highest to lowest percentage.",
+       "options": [
+        "Brong Ahafo, Volta, Ashanti",
+        "Upper West, Northern, Upper East",
+        "Eastern, Central, Western",
+        "Greater Accra, Brong Ahafo, Upper West"
+       ],
+       "answer": "Brong Ahafo, Volta, Ashanti",
+       "image": null
+      },
+      {
+       "id": "r8-c1-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "Which statement below is true according to the Ministry of Health:",
+       "options": [
+        "Proportion of population living below the national poverty line is less than 30%.",
+        "Proportion of population living with less than 1$ a day (PPP) is 55%",
+        "Prevalence of undernourishment is greater than 12% but less than 15%.",
+        "All true"
+       ],
+       "answer": "Proportion of population living below the national poverty line is less than 30%.",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r8-c2",
+     "name": "Beauty Pageants",
+     "short": "Beauty Pageants",
+     "questions": [
+      {
+       "id": "r8-c2-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "She is the first Miss Ghana",
+       "options": [
+        "Monica Amekoafia",
+        "Inna Mariam Patty",
+        "Star Nyaniba Annan",
+        "Dzifa Dzudzor"
+       ],
+       "answer": "Monica Amekoafia",
+       "image": null
+      },
+      {
+       "id": "r8-c2-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "She is Ghana’s first representative to the Miss World competition",
+       "options": [
+        "Roselyn Senam Tay",
+        "Inna Mariam Patty",
+        "Star Nyaniba Annan",
+        "Dzifa Dzudzor"
+       ],
+       "answer": "Star Nyaniba Annan",
+       "image": null
+      },
+      {
+       "id": "r8-c2-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "The Ghana Beauty Pageant was first organized by:",
+       "options": [
+        "Exclusive Events, Ghana",
+        "Public Works Department",
+        "Malinro Ventures",
+        "Sparrow Productions"
+       ],
+       "answer": "Public Works Department",
+       "image": null
+      },
+      {
+       "id": "r8-c2-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "A Ghana Beauty Pageant contestant must be",
+       "options": [
+        "Between 18-26 years of age",
+        "Single and never married",
+        "Must speak at least two Ghanaian languages",
+        "a and b only"
+       ],
+       "answer": "a and b only",
+       "image": null
+      },
+      {
+       "id": "r8-c2-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "Was the second runner-up for Miss World and won the Miss World Africa title.",
+       "options": [
+        "Mawuse Appae",
+        "Mimi Areme",
+        "Carranzer Naa Okailey Shooter",
+        "Nana Ama Benson"
+       ],
+       "answer": "Carranzer Naa Okailey Shooter",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r8-c3",
+     "name": "National Awards and Recognitions",
+     "short": "National Awards",
+     "questions": [
+      {
+       "id": "r8-c3-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "He received the Order of the Star of Ghana and the Amilcar Cabral Medal from Guinea Bissau in the same year (2024).",
+       "options": [
+        "J.A. Kufuor",
+        "J. J. Rawlings",
+        "William Ruto, President of Kenya",
+        "Captain Kojo Tsikata"
+       ],
+       "answer": "William Ruto, President of Kenya",
+       "image": null
+      },
+      {
+       "id": "r8-c3-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "The winner of this award wears the ribbon below.",
+       "options": [
+        "Order of the Stars and Eagles",
+        "Order of the Volta",
+        "Order of the Companion of Ghana",
+        "Order of Gallantry"
+       ],
+       "answer": "Order of the Volta",
+       "image": "r8-c3-q2.webp"
+      },
+      {
+       "id": "r8-c3-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "The winner of this award wears the ribbon below",
+       "options": [
+        "Order of the Stars and Eagles",
+        "Order of the Volta",
+        "Order of the Companion of Ghana",
+        "Order of the Star of Ghana"
+       ],
+       "answer": "Order of the Star of Ghana",
+       "image": "r8-c3-q3.webp"
+      },
+      {
+       "id": "r8-c3-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "This winner of the Star of Ghana Award won over 30 other national awards.",
+       "options": [
+        "Osagyefo Dr. Kwame Nkrumah",
+        "Fidel Castro",
+        "Luiz Inácio Lula da Silva (President Brazil)",
+        "Rev. Martin Luther King"
+       ],
+       "answer": "Luiz Inácio Lula da Silva (President Brazil)",
+       "image": null
+      },
+      {
+       "id": "r8-c3-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "Posthumously awarded the Order of the Volta (Companion) in 2023 in recognition of his global recognition as one of the greatest philosophers of his time.",
+       "options": [
+        "Professor W. E. Abraham",
+        "Professor Johnson Kwame Wiredu",
+        "Professor Vincent Van Lare",
+        "President Leopold Senghor of Senegal"
+       ],
+       "answer": "Professor Johnson Kwame Wiredu",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r8-c4",
+     "name": "Americana",
+     "short": "Americana",
+     "questions": [
+      {
+       "id": "r8-c4-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The first American President to visit Ghana",
+       "options": [
+        "John Kennedy",
+        "Barack Obama",
+        "Bill Clinton",
+        "George Bush"
+       ],
+       "answer": "Bill Clinton",
+       "image": null
+      },
+      {
+       "id": "r8-c4-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "This U.S. President gave Ghana the largest financial support under the HIPC program.",
+       "options": [
+        "Jimmy Carter",
+        "Barack Obama",
+        "Bill Clinton",
+        "George Bush"
+       ],
+       "answer": "George Bush",
+       "image": null
+      },
+      {
+       "id": "r8-c4-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "He is the first American President to visit Cape Coast during his visit to Ghana.",
+       "options": [
+        "John Kennedy",
+        "Barack Obama",
+        "Bill Clinton",
+        "George Bush"
+       ],
+       "answer": "Barack Obama",
+       "image": null
+      },
+      {
+       "id": "r8-c4-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "What year did the United States establish diplomatic relations with Ghana?",
+       "options": [
+        "I960",
+        "1957",
+        "1948",
+        "1992"
+       ],
+       "answer": "1957",
+       "image": null
+      },
+      {
+       "id": "r8-c4-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "The first U.S. Ambassador to Ghana",
+       "options": [
+        "Andrew Young",
+        "Shirley Temple Black",
+        "Donald W. Lamm",
+        "Kwame Toure (Stokely Carmichael)"
+       ],
+       "answer": "Donald W. Lamm",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r8-c5",
+     "name": "Films and Actors",
+     "short": "Films & Actors",
+     "questions": [
+      {
+       "id": "r8-c5-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The primary purpose of the Ghana Movie Awards is to:",
+       "options": [
+        "Recognize outstanding achievement in Ghanaian Film Industry.",
+        "Support retired actors in need",
+        "Search for overseas markets for Ghanaian actors and actresses.",
+        "Support the ruling government in achieving cultural goals of Ghana."
+       ],
+       "answer": "Recognize outstanding achievement in Ghanaian Film Industry.",
+       "image": null
+      },
+      {
+       "id": "r8-c5-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "_______ is credited for founding the Ghana Movie Awards in 2009",
+       "options": [
+        "Van Vicker",
+        "John Dumelo",
+        "Sir Sam Jonah",
+        "Fred Nuamah"
+       ],
+       "answer": "Fred Nuamah",
+       "image": null
+      },
+      {
+       "id": "r8-c5-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "In the maiden edition of the Movie Awards in 2010, the following pair won best actor and actress respectively.",
+       "options": [
+        "Van Vicker and Lydia Forson",
+        "Majid Michel and Jackie Appiah",
+        "Eddie Nartey and Ama K. Abebrese",
+        "Prince Osei and Yvonne Okoro"
+       ],
+       "answer": "Majid Michel and Jackie Appiah",
+       "image": null
+      },
+      {
+       "id": "r8-c5-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "In the maiden edition of the Movie Awards in 2010 (Local), the following pair won best actor and actress respectively.",
+       "options": [
+        "Akwesi Boadi (Akrobeto) and Emelia Brobbey",
+        "Kofi Adu (Agya Koo) and Rose Mensah (Kyeiwaa)",
+        "Francis Kusi and Mercy Asiedu",
+        "Timothy Bentum and Vivian Jill"
+       ],
+       "answer": "Kofi Adu (Agya Koo) and Rose Mensah (Kyeiwaa)",
+       "image": null
+      },
+      {
+       "id": "r8-c5-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "The Best Picture in the maiden edition of the Movie Awards in 2010.",
+       "options": [
+        "I sing of a well",
+        "A Sting in a Tale",
+        "Sinking Sands",
+        "Chelsea"
+       ],
+       "answer": "Sinking Sands",
+       "image": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "title": "Institutions & Wildlife",
+   "tagline": "Institutions, national parks, conservation sites and Ghana abroad",
+   "icon": "Trees",
+   "categories": [
+    {
+     "id": "r9-c1",
+     "name": "Major Institutions of Ghana",
+     "short": "Major Institutions",
+     "questions": [
+      {
+       "id": "r9-c1-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "This institution was established on 4th March 1957",
+       "options": [
+        "Bank of Ghana",
+        "National Lottery Agency",
+        "National Wildlife Agency",
+        "Public Utilities Regulatory Commission (PURC)"
+       ],
+       "answer": "Bank of Ghana",
+       "image": null
+      },
+      {
+       "id": "r9-c1-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "This organization began working in Ghana in 1922 and was led by Lieutenant King Hudson .",
+       "options": [
+        "The Ghana Retired Soldiers Association",
+        "The Salvation Army",
+        "The Boys’ Scouts of Ghana",
+        "The Ghana-British Chamber of Commerce"
+       ],
+       "answer": "The Salvation Army",
+       "image": null
+      },
+      {
+       "id": "r9-c1-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "This organization was founded in Ghana on February 11 1911",
+       "options": [
+        "Ghana Fishermen Association",
+        "The National House of Chiefs",
+        "The Gold Coast Drivers Association, now Ghana Drivers Association",
+        "The Ghana Scout Association"
+       ],
+       "answer": "The Ghana Scout Association",
+       "image": null
+      },
+      {
+       "id": "r9-c1-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "This organization was established on 4 January 1958",
+       "options": [
+        "The Ghana Football Association",
+        "The Ghana Medical Association (GMA)",
+        "The Ghana Journalist Association",
+        "Association of Spiritual Churches"
+       ],
+       "answer": "The Ghana Medical Association (GMA)",
+       "image": null
+      },
+      {
+       "id": "r9-c1-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "This organization was established in 1876",
+       "options": [
+        "Ghana Artisans Association",
+        "The Ghana Bar Association",
+        "Association of Stool Land holders",
+        "Ghana Association of Retired Government workers"
+       ],
+       "answer": "The Ghana Bar Association",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r9-c2",
+     "name": "Ghana National Parks",
+     "short": "National Parks",
+     "questions": [
+      {
+       "id": "r9-c2-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "It became an official national park in 1974 and is located near the Ivorian border.",
+       "options": [
+        "Kyabobo National Park",
+        "Bia National Park",
+        "Nini-Sushien National Park",
+        "Kakum National Park"
+       ],
+       "answer": "Bia National Park",
+       "image": null
+      },
+      {
+       "id": "r9-c2-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "Was created in 1900 as a protected area, the first in Ghana",
+       "options": [
+        "Digya National Park",
+        "Kakum forest",
+        "Bui National Park",
+        "Mole National park"
+       ],
+       "answer": "Digya National Park",
+       "image": null
+      },
+      {
+       "id": "r9-c2-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "It is the largest wildlife refuge in Ghana",
+       "options": [
+        "Kyabobo National park",
+        "Bui National Park",
+        "Mole National Park",
+        "Nini-Sushien National Park"
+       ],
+       "answer": "Mole National Park",
+       "image": null
+      },
+      {
+       "id": "r9-c2-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "Established in 1931 as a reserve, it was gazetted as a national park only in 1992.",
+       "options": [
+        "Kakum Forest",
+        "Digya National Park",
+        "Bui National Park",
+        "Nini-Sushien National Park"
+       ],
+       "answer": "Kakum Forest",
+       "image": null
+      },
+      {
+       "id": "r9-c2-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "Established in 1993 and located in the Oti Region on the border with Togo.",
+       "options": [
+        "Kyabobo National park",
+        "Bui National Park",
+        "Mole National Park",
+        "Nini-Sushien National Park"
+       ],
+       "answer": "Kyabobo National park",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r9-c3",
+     "name": "Conservation Sites",
+     "short": "Conservation Sites",
+     "questions": [
+      {
+       "id": "r9-c3-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "It was established in 1934 and located at Akrodie in the Brong Ahafo region.",
+       "options": [
+        "Bonsam Bepo Forest Reserve",
+        "Draw River Forest Reserve",
+        "Asubima Forest Reserve",
+        "Tano Nimiri Forest Reserve"
+       ],
+       "answer": "Bonsam Bepo Forest Reserve",
+       "image": null
+      },
+      {
+       "id": "r9-c3-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "It was established in 1940 and located at the Asunafo South District in the Brong Ahafo Region of Ghana.",
+       "options": [
+        "Asubima Forest Reserve",
+        "Krokosua Hills Forest Reserve",
+        "Ayum Forest Reserve",
+        "Gbele Game Production Reserve"
+       ],
+       "answer": "Ayum Forest Reserve",
+       "image": null
+      },
+      {
+       "id": "r9-c3-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "This protected area was founded in 1975 and located on the foothills of the Togo Mountains in the Ho Municipal Area.",
+       "options": [
+        "Kalakpa Game Production Reserve",
+        "Draw River Forest Reserve",
+        "Asubima Forest Reserve",
+        "Tano Nimiri Forest Reserve"
+       ],
+       "answer": "Kalakpa Game Production Reserve",
+       "image": null
+      },
+      {
+       "id": "r9-c3-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "It was established in 1945and is located near Akumadan.",
+       "options": [
+        "Gbele Game Production Reserve",
+        "Tano Nimiri Forest Reserve",
+        "Draw River Forest Reserve",
+        "Asubima Forest Reserve"
+       ],
+       "answer": "Asubima Forest Reserve",
+       "image": null
+      },
+      {
+       "id": "r9-c3-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "This Nature Reserve was established in 1968 and located near Aowin/Suaman",
+       "options": [
+        "Boin Tano Forest Reserve",
+        "Draw River Forest Reserve",
+        "Asubima Forest Reserve",
+        "Tano Nimiri Forest Reserve"
+       ],
+       "answer": "Boin Tano Forest Reserve",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r9-c4",
+     "name": "Ghana In International Arena",
+     "short": "Ghana & the World",
+     "questions": [
+      {
+       "id": "r9-c4-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "Which list correctly shows seniority for Former Ambassadors and Permanent Representatives to the United Nations.",
+       "options": [
+        "H.E. Awoonor, H.E. Akyaa Pobee, H.E. Gbeho",
+        "H.E. Wilmot, H.E. Effah-Appenteng, Christian.",
+        "H.E. Kanda, H.E. Ahmling Chapman, H.E. Quaison-Sackey",
+        "H.E. Arkhurst, H.E. Sekyi, H.E. Akwei"
+       ],
+       "answer": "H.E. Wilmot, H.E. Effah-Appenteng, Christian.",
+       "image": null
+      },
+      {
+       "id": "r9-c4-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "He served as President of the nineteenth session of the U.N. General Assembly and as President of the Security Council in 1962 and 1963.",
+       "options": [
+        "Hon. Kofi Annan",
+        "Hon Quaison-Sackey",
+        "H.E. Ahmling Chapman",
+        "H.E. Gbeho"
+       ],
+       "answer": "Hon Quaison-Sackey",
+       "image": null
+      },
+      {
+       "id": "r9-c4-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "He served as the seventh Secretary-General of the United Nations.",
+       "options": [
+        "Hon. Kofi Annan",
+        "Hon Quaison-Sackey",
+        "H.E. Ahmling Chapman",
+        "H.E. Gbeho"
+       ],
+       "answer": "Hon. Kofi Annan",
+       "image": null
+      },
+      {
+       "id": "r9-c4-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "Ghana was admitted to the United Nations on:",
+       "options": [
+        "8 March 1957",
+        "6 March 1957",
+        "July 1 1960",
+        "August 8 1948"
+       ],
+       "answer": "8 March 1957",
+       "image": null
+      },
+      {
+       "id": "r9-c4-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "Ghana's first international treaty was:",
+       "options": [
+        "The African Charter on Human and Peoples' Rights, 1986",
+        "The Vienna Convention on the Law of Treaties, May 23, 1969.",
+        "The African Charter on the Rights and Welfare of the Child, 1990",
+        "Genocide Convention, 1948"
+       ],
+       "answer": "The Vienna Convention on the Law of Treaties, May 23, 1969.",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r9-c5",
+     "name": "Female First In Their Profession",
+     "short": "Female Firsts I",
+     "questions": [
+      {
+       "id": "r9-c5-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "She is first female Justice of Ghana Supreme Court",
+       "options": [
+        "Justice Anne Jiagge",
+        "Justice Joyce Adeline Bamford-Addo",
+        "Georgina Theodora Wood",
+        "Justice Sophia Akuffo"
+       ],
+       "answer": "Justice Joyce Adeline Bamford-Addo",
+       "image": null
+      },
+      {
+       "id": "r9-c5-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "She is the first female Speaker of Parliament",
+       "options": [
+        "Justice Anne Jiagge",
+        "Justice Joyce Adeline Bamford-Addo",
+        "Georgina Theodora Wood",
+        "Justice Sophia Akuffo"
+       ],
+       "answer": "Justice Joyce Adeline Bamford-Addo",
+       "image": null
+      },
+      {
+       "id": "r9-c5-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "She is the first female Chief Justice of Ghana",
+       "options": [
+        "Justice Anne Jiagge",
+        "Justice Joyce Adeline Bamford-Addo",
+        "Georgina Theodora Wood",
+        "Justice Sophia Akuffo"
+       ],
+       "answer": "Georgina Theodora Wood",
+       "image": null
+      },
+      {
+       "id": "r9-c5-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "She is the first female medical doctor in Ghana",
+       "options": [
+        "Matilda Johanna Clerk",
+        "Susan Ofori-Atta",
+        "Erica Ntiamoah Mensah",
+        "Zanetor Agyeman-Rawlings"
+       ],
+       "answer": "Susan Ofori-Atta",
+       "image": null
+      },
+      {
+       "id": "r9-c5-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "She is the first female Brigadier-General of the Armed Forces.",
+       "options": [
+        "Constance Edjeani-Afenu",
+        "Rose Atinga",
+        "Rosamond Asiamah Nkansah",
+        "Maame Yaa Tiwaa Addo-Danquah"
+       ],
+       "answer": "Constance Edjeani-Afenu",
+       "image": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "title": "Firsts, Finance & Europe",
+   "tagline": "Pioneers, public money and Ghana-EU ties",
+   "icon": "Coins",
+   "categories": [
+    {
+     "id": "r10-c1",
+     "name": "Female First in Profession",
+     "short": "Female Firsts II",
+     "questions": [
+      {
+       "id": "r10-c1-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "She is the first female pilot in Ghana’s history",
+       "options": [
+        "Genevieve Arkhurst",
+        "Melody Millicent Danquah",
+        "Genevieve Marias",
+        "Genevieve de Graft Johnson"
+       ],
+       "answer": "Melody Millicent Danquah",
+       "image": null
+      },
+      {
+       "id": "r10-c1-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "She is the first female Chair of the National Commission for Civic Education (NCCE)",
+       "options": [
+        "Charlotte Osei",
+        "Jean Mensah",
+        "Joyce Bamford-Addo",
+        "Vida Akoto-Bamfo"
+       ],
+       "answer": "Charlotte Osei",
+       "image": null
+      },
+      {
+       "id": "r10-c1-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "She is the first female Chair of the Electoral Commission (EC)",
+       "options": [
+        "Charlotte Osei",
+        "Jean Mensah",
+        "Joyce Bamford-Addo",
+        "Vida Akoto-Bamfo"
+       ],
+       "answer": "Charlotte Osei",
+       "image": null
+      },
+      {
+       "id": "r10-c1-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "She is first female Vice-President of Ghana",
+       "options": [
+        "Rose Constance Owusu",
+        "Nana Konadu Agyeman-Rawlings",
+        "Naana Jane Opoku-Agyeman",
+        "Georgina Wood"
+       ],
+       "answer": "Naana Jane Opoku-Agyeman",
+       "image": null
+      },
+      {
+       "id": "r10-c1-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "The first female Director-General of the Ghana Prisons Service.",
+       "options": [
+        "Victoria Ama Zormelo-Gorleku",
+        "Matilda Baffour-Awuah",
+        "Elizabeth Adjei",
+        "Mrs. Adelaide Anno-Kumi"
+       ],
+       "answer": "Matilda Baffour-Awuah",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r10-c2",
+     "name": "Male First in Profession",
+     "short": "Male Firsts",
+     "questions": [
+      {
+       "id": "r10-c2-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "He is the first Ghanaian Male Chief Justice",
+       "options": [
+        "James Emman Kwegyir Aggrey",
+        "Sir Arku Korsah, Esq.",
+        "Samuel Azu Crabbe",
+        "Nii Amaa Ollennu"
+       ],
+       "answer": "Sir Arku Korsah, Esq.",
+       "image": null
+      },
+      {
+       "id": "r10-c2-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "The first Ghanaian male to earn a medical degree and practice medicine.",
+       "options": [
+        "E.A.L. Bannerman, Esq.",
+        "Harry Sawyerr",
+        "Charles Odamtten Easmon",
+        "William Benjamin Quartey-Papafio"
+       ],
+       "answer": "William Benjamin Quartey-Papafio",
+       "image": null
+      },
+      {
+       "id": "r10-c2-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "The first Ghanaian to formally qualify as a surgeon specialist and the first Dean of the University of Ghana Medical School.",
+       "options": [
+        "E.A.L. Bannerman, Esq.",
+        "Sir William Brandford Griffith",
+        "C. O. Easmon",
+        "J. F. Easmon"
+       ],
+       "answer": "C. O. Easmon",
+       "image": null
+      },
+      {
+       "id": "r10-c2-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "He was the First Prime Minister of Ghana",
+       "options": [
+        "Edward Akuffo Addo",
+        "J. B. Danquah",
+        "Kwame Nkrumah",
+        "K. A. Busia"
+       ],
+       "answer": "Kwame Nkrumah",
+       "image": null
+      },
+      {
+       "id": "r10-c2-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "He is the first Ghanaian Chief of Defense Staff (CDS)",
+       "options": [
+        "Lieutenant General Thomas Oppong-Peprah",
+        "Major General Alexander G. V. Paley",
+        "Major General Nathan A. Aferi",
+        "Major General Stephen J. A. Otu"
+       ],
+       "answer": "Major General Stephen J. A. Otu",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r10-c3",
+     "name": "Finance",
+     "short": "Finance",
+     "questions": [
+      {
+       "id": "r10-c3-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "Taxation shall only be imposed by",
+       "options": [
+        "the President",
+        "the Council of State",
+        "an Act of Parliament",
+        "the Judiciary"
+       ],
+       "answer": "an Act of Parliament",
+       "image": null
+      },
+      {
+       "id": "r10-c3-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "The public funds of Ghana include",
+       "options": [
+        "the Appropriation Fund and the Consolidated Fund",
+        "the Contingency Fund and the Parliamentary Fund",
+        "the Consolidated Fund and the Contingency Fund",
+        "the Appropriation fund and the Parliamentary Fund"
+       ],
+       "answer": "the Consolidated Fund and the Contingency Fund",
+       "image": null
+      },
+      {
+       "id": "r10-c3-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "The Central Bank of Ghana shall",
+       "options": [
+        "be the only authority to issue the currency of Ghana.",
+        "promote and maintain the stability of the currency of Ghana.",
+        "encourage and promote economic development.",
+        "all of the above"
+       ],
+       "answer": "all of the above",
+       "image": null
+      },
+      {
+       "id": "r10-c3-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "The Governor of the Bank of Ghana is",
+       "options": [
+        "elected by the people.",
+        "appointed by the President.",
+        "elected by the Board of Trustees.",
+        "chosen by Parliament."
+       ],
+       "answer": "appointed by the President.",
+       "image": null
+      },
+      {
+       "id": "r10-c3-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "The public accounts of Ghana and of all public offices shall be audited and reported on by",
+       "options": [
+        "the President.",
+        "the Chief Justice",
+        "the Council of State",
+        "the Auditor-General"
+       ],
+       "answer": "the Auditor-General",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r10-c4",
+     "name": "Ghana Europe",
+     "short": "Ghana & Europe",
+     "questions": [
+      {
+       "id": "r10-c4-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "This institution provides funding support for Youth Constitutional Education Game in Ghana",
+       "options": [
+        "The Swedish International Development Cooperation Agency (Sida) (Sweden)",
+        "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH (Germany)",
+        "European Union",
+        "The Norwegian Agency for Development Cooperation (NORAD)"
+       ],
+       "answer": "European Union",
+       "image": null
+      },
+      {
+       "id": "r10-c4-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "The trade relationship between Ghana and the EU is governed under the:",
+       "options": [
+        "Joint Poverty Reduction Agreement",
+        "Economic Partnership Agreement",
+        "The EU-ECOWAS Partnership Agreement",
+        "The Commonwealth Economic Promotion Agreement"
+       ],
+       "answer": "Economic Partnership Agreement",
+       "image": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "title": "Amending the Constitution",
+   "tagline": "Entrenched clauses, the Council of State, referendums and assent",
+   "icon": "Gavel",
+   "categories": [
+    {
+     "id": "r11-c1",
+     "name": "ENTRENCHED PROVISIONS",
+     "short": "Entrenched",
+     "questions": [
+      {
+       "id": "r11-c1-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "Parliament may amend any provision of the Constitution using",
+       "options": [
+        "Legislative Instrument",
+        "an Act of Parliament",
+        "Constitutional Instrument",
+        "a Decree."
+       ],
+       "answer": "an Act of Parliament",
+       "image": null
+      },
+      {
+       "id": "r11-c1-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "The Supreme Court may also amend the Constitution in the interest of justice using:",
+       "options": [
+        "Case precedent",
+        "Court Instrument",
+        "Supreme Court cannot amend the Constitution",
+        "Gazette Instrument"
+       ],
+       "answer": "Supreme Court cannot amend the Constitution",
+       "image": null
+      },
+      {
+       "id": "r11-c1-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "Which of the following are \"entrenched provisions\"-",
+       "options": [
+        "The Constitution: articles 1,2 and 3;",
+        "The Territories of Ghana: articles 4 and 5;",
+        "The Laws of Ghana: article 11;",
+        "All are entrenched provisions"
+       ],
+       "answer": "All are entrenched provisions",
+       "image": null
+      },
+      {
+       "id": "r11-c1-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "The following are all entrenched provisions except:",
+       "options": [
+        "Fundamental Human Rights and Freedoms: Chapter 5;",
+        "Representation of the People: articles 42, 43, 46, 49, 55 and 56;",
+        "The Executive: Chapter 8;",
+        "All are entrenched provisions"
+       ],
+       "answer": "All are entrenched provisions",
+       "image": null
+      },
+      {
+       "id": "r11-c1-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "The only entrenched provision that the National House of Chiefs may amend is:",
+       "options": [
+        "The Legislature: articles 93 and 106",
+        "Chieftaincy: article 270",
+        "National House of Chiefs may not amend any provision",
+        "The Judiciary: articles 125, 127, 129, 145, and 146;"
+       ],
+       "answer": "National House of Chiefs may not amend any provision",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r11-c2",
+     "name": "WHO MAY ACT",
+     "short": "Who May Act",
+     "questions": [
+      {
+       "id": "r11-c2-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The last entrenched provision to be added to constitution is:",
+       "options": [
+        "Freedom and Independence of the Media: article 162, clauses (1) to (5)",
+        "All provisions were included in the Constitution at the same time.",
+        "Finance: articles 174 and 187;",
+        "Police Service: article 200;"
+       ],
+       "answer": "All provisions were included in the Constitution at the same time.",
+       "image": null
+      },
+      {
+       "id": "r11-c2-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "The Chief of Defence Staff added the following entrenched provision in the Constitution.",
+       "options": [
+        "The Armed Forces of Ghana: article 210;",
+        "Commission on Human Rights and Administrative Justice: articles 216 and 225;",
+        "The Chief of Defence Staff cannot amend Constitution",
+        "National Commission for Civic Education: article 231"
+       ],
+       "answer": "The Chief of Defence Staff cannot amend Constitution",
+       "image": null
+      },
+      {
+       "id": "r11-c2-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "A private person may not bring any court action invoking the following entrenched provision:",
+       "options": [
+        "Decentralization and Local Government: articles 240 and 252",
+        "Code of Conduct for Public Officers: article 286",
+        "Amendment of the Constitution: Chapter 25",
+        "A private party may bring an action on any provision of the constitution."
+       ],
+       "answer": "A private party may bring an action on any provision of the constitution.",
+       "image": null
+      },
+      {
+       "id": "r11-c2-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "A bill for the amendment of an entrenched provision must be referred to:",
+       "options": [
+        "Supreme Court",
+        "The Executive Branch",
+        "The Council of State",
+        "The Ghana Bar Association"
+       ],
+       "answer": "The Council of State",
+       "image": null
+      },
+      {
+       "id": "r11-c2-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "Who submits the bill for an amendment to the Constitution to the Council of State?",
+       "options": [
+        "Speaker of Parliament",
+        "Majority Leader in Parliament",
+        "Minority Leader in Parliament",
+        "Joint Parliamentary Committee on Constitutional Affairs"
+       ],
+       "answer": "Speaker of Parliament",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r11-c3",
+     "name": "THE AMENDMENT PATH",
+     "short": "The Path",
+     "questions": [
+      {
+       "id": "r11-c3-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "The Council of State shall render advice on a bill to amend an entrenched provision within:",
+       "options": [
+        "Thirty days after receiving it.",
+        "Sixty days after receiving it.",
+        "a reasonable time",
+        "21 days after receiving it"
+       ],
+       "answer": "Thirty days after receiving it.",
+       "image": null
+      },
+      {
+       "id": "r11-c3-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "Following procedure the bill shall:",
+       "options": [
+        "be published in the Gazette",
+        "debated by the major political parties",
+        "published in the major newspapers",
+        "Discussed by the Council of State on national television"
+       ],
+       "answer": "be published in the Gazette",
+       "image": null
+      },
+      {
+       "id": "r11-c3-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "After publication in the gazette the bill shall not be introduced into Parliament until:",
+       "options": [
+        "Until the Speaker orders release",
+        "The Supreme Court has ruled the amendment constitutional",
+        "the expiry of six months",
+        "The President has signed"
+       ],
+       "answer": "the expiry of six months",
+       "image": null
+      },
+      {
+       "id": "r11-c3-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "After the bill has been read the first time in Parliament it shall not be proceeded with further unless:",
+       "options": [
+        "The Speaker orders continuation of discussion.",
+        "It has been submitted to a referendum held throughout Ghana",
+        "The Supreme Court has checked the constitutionality of bill.",
+        "The Council of State has approved the bill"
+       ],
+       "answer": "It has been submitted to a referendum held throughout Ghana",
+       "image": null
+      },
+      {
+       "id": "r11-c3-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "To proceed with the bill after first reading, at _____________ voted at the referendum.",
+       "options": [
+        "least forty percent of the persons entitled to vote voted.",
+        "least fifty percent of the persons entitled to vote voted",
+        "least sixty percent of the persons entitled to vote voted",
+        "There was unanimous vote"
+       ],
+       "answer": "least forty percent of the persons entitled to vote voted.",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r11-c4",
+     "name": "REFERENDUM & ASSENT",
+     "short": "Referendum",
+     "questions": [
+      {
+       "id": "r11-c4-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "Of those who voted at the referendum, the bill passes only if:",
+       "options": [
+        "at least seventy-five percent cast their votes in favour of the passing of the bill.",
+        "at least fifty percent cast their votes in favour of the passing of the bill",
+        "at least ninety percent cast their votes in favour of the passing of the bill",
+        "at least sixty-six percent cast their votes in favour of the passing of the bill"
+       ],
+       "answer": "at least seventy-five percent cast their votes in favour of the passing of the bill.",
+       "image": null
+      },
+      {
+       "id": "r11-c4-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "Where the bill is approved at the referendum, Parliament shall",
+       "options": [
+        "Send it to the Council of State for further opinion",
+        "Consult the Supreme Court for a final opinion",
+        "pass the amendment",
+        "Consult the National House of Chiefs for final determination"
+       ],
+       "answer": "pass the amendment",
+       "image": null
+      },
+      {
+       "id": "r11-c4-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "After Parliament passes an amendment of an entrenched provision the President:",
+       "options": [
+        "May ask the Council of State to reconsider",
+        "May ask the leaders of the opposition parties to consider to promote national unity",
+        "shall assent to it.",
+        "May ask the Cabinet to study and make changes to the amendment."
+       ],
+       "answer": "shall assent to it.",
+       "image": null
+      },
+      {
+       "id": "r11-c4-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "A non-entrenched provision may be amended only after it has been published:",
+       "options": [
+        "in the Daily Graphic",
+        "twice in the Gazette",
+        "Three times in the Gazette",
+        "on the Radio"
+       ],
+       "answer": "twice in the Gazette",
+       "image": null
+      },
+      {
+       "id": "r11-c4-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "A second publication amending a non-entrenched provision must be at least ____of the first publication.",
+       "options": [
+        "60 days",
+        "10 days",
+        "three months",
+        "24 hours"
+       ],
+       "answer": "three months",
+       "image": null
+      }
+     ]
+    },
+    {
+     "id": "r11-c5",
+     "name": "NON-ENTRENCHED & VOTES",
+     "short": "Votes",
+     "questions": [
+      {
+       "id": "r11-c5-q1",
+       "points": 10,
+       "type": "multiple-choice",
+       "question": "Parliament must wait at least ______ after second publication to proceed on the bill.",
+       "options": [
+        "24 hours",
+        "30 days",
+        "three months",
+        "10 days"
+       ],
+       "answer": "10 days",
+       "image": null
+      },
+      {
+       "id": "r11-c5-q2",
+       "points": 20,
+       "type": "multiple-choice",
+       "question": "The Speaker shall, after the first reading of the bill in Parliament must refer it to:",
+       "options": [
+        "the Council of State for consideration and advice",
+        "Minority Whip for discussion by opposition",
+        "The Supreme Court to rule on constitutionality",
+        "The Judicial Council for advice and consideration"
+       ],
+       "answer": "the Council of State for consideration and advice",
+       "image": null
+      },
+      {
+       "id": "r11-c5-q3",
+       "points": 30,
+       "type": "multiple-choice",
+       "question": "The Council of State shall render advice on amending a non-entrenched provision:",
+       "options": [
+        "Within one year after receiving it",
+        "Within thirty days after receiving it.",
+        "Within 24 hours after receiving it.",
+        "At a time they consider appropriate."
+       ],
+       "answer": "Within thirty days after receiving it.",
+       "image": null
+      },
+      {
+       "id": "r11-c5-q4",
+       "points": 40,
+       "type": "multiple-choice",
+       "question": "A bill to amend an entrenched provision may be submitted to the President only if approved by:",
+       "options": [
+        "The votes of at least two thirds of all the members of Parliament.",
+        "The votes of at least fifty percent of all the members of Parliament",
+        "The votes of at least ninety percent of all the members of Parliament.",
+        "A unanimous vote of all members of Parliament."
+       ],
+       "answer": "The votes of at least two thirds of all the members of Parliament.",
+       "image": null
+      },
+      {
+       "id": "r11-c5-q5",
+       "points": 50,
+       "type": "multiple-choice",
+       "question": "A bill to amend an entrenched provision must be accompanied by:",
+       "options": [
+        "A certificate from the Electoral Commission, signed by the Chairman of the Commission",
+        "A certificate bearing the seal of the Commission",
+        "A certificate that the bill was approved at a referendum.",
+        "a,b,c"
+       ],
+       "answer": "a,b,c",
+       "image": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
