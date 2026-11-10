@@ -98,3 +98,21 @@ body { background: var(--ink); }
 
 @media (prefers-reduced-motion: reduce) { .hero__kicker .seal--spin { animation: none; } }
 @media (forced-colors: active) { .teaser { border: 1px solid CanvasText; } }
+
+/* ---------- user guide download ---------- */
+.guide-link { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 4px 8px; color: var(--mist); font-size: 16px; }
+.guide-link svg { color: var(--gold); }
+.guide-link a { color: var(--gold-2); font-weight: 600; text-decoration: underline; text-underline-offset: 4px; min-height: 44px; display: inline-flex; align-items: center; }
+.guide-card { display: flex; align-items: center; gap: 16px; padding: 18px 20px; color: var(--ivory); text-decoration: none; transition: border-color 0.25s, box-shadow 0.25s, transform 0.25s; }
+.guide-card__icon { display: grid; place-items: center; flex: none; width: 52px; height: 52px; border-radius: 10px; color: #120708; background: linear-gradient(145deg, #f4d77a, #d9a82b 55%, #a97a12); }
+.guide-card__text { flex: 1; min-width: 0; display: grid; gap: 2px; }
+.guide-card__text b { font-family: var(--display); font-size: 20px; }
+.guide-card__text small { color: var(--mist); font-size: 14px; line-height: 1.4; }
+.guide-card__tag { flex: none; padding: 3px 10px; border-radius: 6px; font-size: 13px; font-weight: 700; letter-spacing: 0.06em; color: var(--gold-2); border: 1px solid var(--rule); }
+@media (prefers-reduced-motion: reduce) { .guide-card { transition: none; } }
+.guide-card { flex-wrap: wrap; }
+.guide-card__btns { display: flex; gap: 8px; flex: none; }
+.guide-card__btn { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 0 16px; border-radius: 10px; font-weight: 700; font-size: 15px; color: var(--gold-2); text-decoration: none; border: 1px solid var(--rule); }
+.guide-card__btn--main { background: linear-gradient(180deg, #f0cd6e, #d9a82b 58%, #b88a14); color: #1e1300; border-color: #8a6410; }
+.guide-card__btn:hover { border-color: var(--gold); }
+@media (max-width: 520px) { .guide-card__btns { width: 100%; } .guide-card__btn { flex: 1; } }

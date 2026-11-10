@@ -18,6 +18,13 @@ npm test           # data and logic tests
 
 Deploy `dist/` to any static host. It uses relative paths, so a sub-folder works too.
 
+## User guide
+
+`public/guide/Constitution-Quiz-Showdown-User-Guide.pdf` is an illustrated, plain-language guide with real screenshots.
+It is linked from the home screen and the How to play screen, each with a View (opens in the browser PDF viewer) and a Download option, and it is cached for offline use.
+To rebuild it after changing the look or the rules: `npm run build`, start `npx vite preview --port 4173`, then run `npm run guide`
+(needs Playwright with Chromium; the screenshots are taken from the running app).
+
 ## Rounds
 
 | # | Round | Topics | Questions |

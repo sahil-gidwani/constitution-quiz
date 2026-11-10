@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { useState } from 'react';
-import { Play, BookOpen, RotateCcw, Timer, Users, Upload, Download, SlidersHorizontal, WifiOff, Share } from 'lucide-react';
+import { Play, BookOpen, FileDown, RotateCcw, Timer, Users, Upload, Download, SlidersHorizontal, WifiOff, Share } from 'lucide-react';
 import Button from '../components/Button';
 import Seal from '../components/Seal';
 import Teaser from '../components/Teaser';
@@ -8,6 +8,7 @@ import Modal from '../components/Modal';
 import { useInstall } from '../lib/pwa';
 import { useGame } from '../store';
 import { BUNDLED_ROUNDS } from '../lib/quiz';
+import { GUIDE_URL } from '../lib/guide';
 
 const stat = BUNDLED_ROUNDS.reduce((a, r) => ({ c: a.c + r.categories.length, q: a.q + r.categories.reduce((n, c) => n + c.questions.length, 0) }), { c: 0, q: 0 });
 const rise = (d = 0) => ({ initial: { opacity: 0, y: 22 }, animate: { opacity: 1, y: 0 }, transition: { delay: d, duration: 0.6, ease: [0.22, 1, 0.36, 1] } });
@@ -61,6 +62,13 @@ export default function Home() {
         <li><SlidersHorizontal size={22} /><div><b>Optional extras</b><span>Power-ups, streaks, teams and quick-fire. All off until you switch them on.</span></div></li>
         <li><Upload size={22} /><div><b>Your own rounds</b><span>Import a JSON file and play it on the same board.</span></div></li>
       </motion.ul>
+      <motion.p className="guide-link" {...rise(0.6)}>
+        <FileDown size={18} aria-hidden="true" />
+        <span>New here? </span>
+        <a href={GUIDE_URL} target="_blank" rel="noopener">View the illustrated user guide</a>
+        <span aria-hidden="true">·</span>
+        <a href={GUIDE_URL} download>Download PDF</a>
+      </motion.p>
       <Modal open={iosOpen} title="Add to Home Screen" onClose={() => setIosOpen(false)} actions={<Button onClick={() => setIosOpen(false)}>Got it</Button>}>
         <ol className="steps">
           <li>Tap the Share button <Share size={16} aria-hidden="true" /> in Safari's toolbar.</li>
